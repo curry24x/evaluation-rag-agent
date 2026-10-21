@@ -1,0 +1,5 @@
+﻿configuration,retrieval_cases,recall_at_5,precision_at_5,mrr,ndcg_at_5,hit_rate,route_accuracy,tool_trace_accuracy,field_accuracy,task_success_rate,median_latency_ms,p95_latency_ms,first_request_ms,steady_p95_latency_ms,evidence_coverage,citation_correctness
+dense,50,1.0,0.2,0.9566666666666667,0.9678557852142875,1.0,1.0,1.0,1.0,1.0,11.379999999999999,75.63,88.53,75.63,,
+dense+reranker,50,1.0,0.2,0.9866666666666667,0.99,1.0,1.0,1.0,1.0,1.0,12.835,1016.07,2559.08,1016.07,,
+hybrid,50,1.0,0.2,0.9433333333333334,0.9578557852142875,1.0,1.0,1.0,1.0,1.0,12.84,78.39,66.9,79.78,,
+hybrid+reranker,50,1.0,0.2,0.9866666666666667,0.99,1.0,1.0,1.0,1.0,1.0,11.085,964.28,170.57,1004.22,,

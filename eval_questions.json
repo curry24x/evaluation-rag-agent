@@ -1,0 +1,22 @@
+[
+  {"question":"Tier 1 的核心问题和判错红线是什么？","route":"retrieve","answer_contains":["缺没缺","少画一项"],"source_contains":"Tier 1"},
+  {"question":"哪一层级重点检查元素串位、颜色污染和左右镜像？","route":"retrieve","answer_contains":["混没混","Tier 2"],"source_contains":"Tier 2"},
+  {"question":"角色被大众脸拉回平均值属于哪一层级的失败？","route":"retrieve","answer_contains":["准不准","Tier 3"],"source_contains":"Tier 3"},
+  {"question":"复杂设定里强元素吞掉弱元素属于哪类测试？","route":"retrieve","answer_contains":["吞没吞","Tier 4"],"source_contains":"Tier 4"},
+  {"question":"鸣人的原子特征有哪些？","route":"retrieve","answer_contains":["狐须","木叶"],"source_contains":"样本1"},
+  {"question":"马格纳的核对特征是什么？","route":"retrieve","answer_contains":["飞机头","棒球棒"],"source_contains":"样本169"},
+  {"question":"人工看图固定扫描顺序是什么？","route":"retrieve","answer_contains":["脸/发型","道具/身体"],"source_contains":"操作规则"},
+  {"question":"拒绝生成样本如何计分？","route":"retrieve","answer_contains":["不判错","不进分母"],"source_contains":"操作规则"},
+  {"question":"四个模型各有多少错误图？","route":"analyze","answer_contains":["Qwen 错误图：98","Doubao 错误图：100","Gemini 错误图：108","ChatGPT 错误图：64"]},
+  {"question":"哪个模型的错误图最多？","route":"analyze","answer_contains":["Gemini","108"]},
+  {"question":"Doubao 在 Tier 3 有多少错误？","route":"analyze","answer_contains":["Doubao Tier 3 错误数：22"]},
+  {"question":"Qwen 在 Tier 2 有多少错误？","route":"analyze","answer_contains":["Qwen Tier 2 错误数：45"]},
+  {"question":"ChatGPT 的总体准确率是多少？","route":"analyze","answer_contains":["67.3%","132/196"]},
+  {"question":"Doubao 的 Tier 4 准确率是多少？","route":"analyze","answer_contains":["20.0%","4/20"]},
+  {"question":"Doubao 的主要错误类型是什么？","route":"analyze","answer_contains":["P2 Signature Feature Missing","23/100"]},
+  {"question":"ChatGPT Tier 2 的主要错误类型是什么？","route":"analyze","answer_contains":["P2 Signature Feature Missing","21/30"]},
+  {"question":"比较 Qwen 和 Doubao 的总体准确率。","route":"analyze","answer_contains":["Qwen 总体准确率：49.2%","Doubao 总体准确率：48.7%"]},
+  {"question":"哪个模型总体准确率最高？","route":"analyze","answer_contains":["ChatGPT","67.3%"]},
+  {"question":"Tier 3 是什么，Qwen 在 Tier 3 有多少错误？","route":"both","answer_contains":["准不准","Qwen Tier 3 错误数：34"],"source_contains":"Tier 3"},
+  {"question":"Tier 4 为什么容易失败，Doubao 的主要错误原因是什么？","route":"both","answer_contains":["强元素","P11 Prompt Condition Omission"],"source_contains":"Tier 4"}
+]

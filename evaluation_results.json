@@ -1,0 +1,958 @@
+{
+  "run_at": "2026-10-21T20:02:21+08:00",
+  "dataset": "eval_questions.json",
+  "results": [
+    {
+      "chunk_size": 300,
+      "top_k": 3,
+      "questions": 20,
+      "route_accuracy": 1.0,
+      "tool_trace_accuracy": 1.0,
+      "answer_check_rate": 1.0,
+      "retrieval_cases": 10,
+      "retrieval_hit_rate": 1.0,
+      "index_load_ms": 577.9690000053961,
+      "avg_latency_ms": 41.142,
+      "median_latency_ms": 34.825,
+      "p95_latency_ms": 72.63,
+      "details": [
+        {
+          "question": "Tier 1 的核心问题和判错红线是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 161.83
+        },
+        {
+          "question": "哪一层级重点检查元素串位、颜色污染和左右镜像？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 64.47
+        },
+        {
+          "question": "角色被大众脸拉回平均值属于哪一层级的失败？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 69.74
+        },
+        {
+          "question": "复杂设定里强元素吞掉弱元素属于哪类测试？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 72.19
+        },
+        {
+          "question": "鸣人的原子特征有哪些？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 64.22
+        },
+        {
+          "question": "马格纳的核对特征是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 72.24
+        },
+        {
+          "question": "人工看图固定扫描顺序是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 71.74
+        },
+        {
+          "question": "拒绝生成样本如何计分？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 70.45
+        },
+        {
+          "question": "四个模型各有多少错误图？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 5.43
+        },
+        {
+          "question": "哪个模型的错误图最多？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.64
+        },
+        {
+          "question": "Doubao 在 Tier 3 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.22
+        },
+        {
+          "question": "Qwen 在 Tier 2 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.65
+        },
+        {
+          "question": "ChatGPT 的总体准确率是多少？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.66
+        },
+        {
+          "question": "Doubao 的 Tier 4 准确率是多少？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.63
+        },
+        {
+          "question": "Doubao 的主要错误类型是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 4.01
+        },
+        {
+          "question": "ChatGPT Tier 2 的主要错误类型是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.69
+        },
+        {
+          "question": "比较 Qwen 和 Doubao 的总体准确率。",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.87
+        },
+        {
+          "question": "哪个模型总体准确率最高？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.69
+        },
+        {
+          "question": "Tier 3 是什么，Qwen 在 Tier 3 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs",
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 72.63
+        },
+        {
+          "question": "Tier 4 为什么容易失败，Doubao 的主要错误原因是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs",
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 66.84
+        }
+      ]
+    },
+    {
+      "chunk_size": 500,
+      "top_k": 3,
+      "questions": 20,
+      "route_accuracy": 1.0,
+      "tool_trace_accuracy": 1.0,
+      "answer_check_rate": 1.0,
+      "retrieval_cases": 10,
+      "retrieval_hit_rate": 1.0,
+      "index_load_ms": 339.42380000371486,
+      "avg_latency_ms": 35.1745,
+      "median_latency_ms": 29.645,
+      "p95_latency_ms": 70.92,
+      "details": [
+        {
+          "question": "Tier 1 的核心问题和判错红线是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 102.31
+        },
+        {
+          "question": "哪一层级重点检查元素串位、颜色污染和左右镜像？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 55.32
+        },
+        {
+          "question": "角色被大众脸拉回平均值属于哪一层级的失败？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 70.92
+        },
+        {
+          "question": "复杂设定里强元素吞掉弱元素属于哪类测试？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 59.62
+        },
+        {
+          "question": "鸣人的原子特征有哪些？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 56.68
+        },
+        {
+          "question": "马格纳的核对特征是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 65.34
+        },
+        {
+          "question": "人工看图固定扫描顺序是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 69.49
+        },
+        {
+          "question": "拒绝生成样本如何计分？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 64.83
+        },
+        {
+          "question": "四个模型各有多少错误图？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.97
+        },
+        {
+          "question": "哪个模型的错误图最多？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.68
+        },
+        {
+          "question": "Doubao 在 Tier 3 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.16
+        },
+        {
+          "question": "Qwen 在 Tier 2 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.92
+        },
+        {
+          "question": "ChatGPT 的总体准确率是多少？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.53
+        },
+        {
+          "question": "Doubao 的 Tier 4 准确率是多少？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.22
+        },
+        {
+          "question": "Doubao 的主要错误类型是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.71
+        },
+        {
+          "question": "ChatGPT Tier 2 的主要错误类型是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.72
+        },
+        {
+          "question": "比较 Qwen 和 Doubao 的总体准确率。",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.5
+        },
+        {
+          "question": "哪个模型总体准确率最高？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.04
+        },
+        {
+          "question": "Tier 3 是什么，Qwen 在 Tier 3 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs",
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 63.26
+        },
+        {
+          "question": "Tier 4 为什么容易失败，Doubao 的主要错误原因是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs",
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 66.27
+        }
+      ]
+    },
+    {
+      "chunk_size": 500,
+      "top_k": 5,
+      "questions": 20,
+      "route_accuracy": 1.0,
+      "tool_trace_accuracy": 1.0,
+      "answer_check_rate": 1.0,
+      "retrieval_cases": 10,
+      "retrieval_hit_rate": 1.0,
+      "index_load_ms": 6.599700005608611,
+      "avg_latency_ms": 32.937,
+      "median_latency_ms": 29.915,
+      "p95_latency_ms": 67.74,
+      "details": [
+        {
+          "question": "Tier 1 的核心问题和判错红线是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 62.01
+        },
+        {
+          "question": "哪一层级重点检查元素串位、颜色污染和左右镜像？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 69.37
+        },
+        {
+          "question": "角色被大众脸拉回平均值属于哪一层级的失败？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 61.96
+        },
+        {
+          "question": "复杂设定里强元素吞掉弱元素属于哪类测试？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 67.74
+        },
+        {
+          "question": "鸣人的原子特征有哪些？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 61.03
+        },
+        {
+          "question": "马格纳的核对特征是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 66.35
+        },
+        {
+          "question": "人工看图固定扫描顺序是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 63.89
+        },
+        {
+          "question": "拒绝生成样本如何计分？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 59.21
+        },
+        {
+          "question": "四个模型各有多少错误图？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.76
+        },
+        {
+          "question": "哪个模型的错误图最多？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.96
+        },
+        {
+          "question": "Doubao 在 Tier 3 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.6
+        },
+        {
+          "question": "Qwen 在 Tier 2 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.58
+        },
+        {
+          "question": "ChatGPT 的总体准确率是多少？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.72
+        },
+        {
+          "question": "Doubao 的 Tier 4 准确率是多少？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.8
+        },
+        {
+          "question": "Doubao 的主要错误类型是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.46
+        },
+        {
+          "question": "ChatGPT Tier 2 的主要错误类型是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.5
+        },
+        {
+          "question": "比较 Qwen 和 Doubao 的总体准确率。",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.51
+        },
+        {
+          "question": "哪个模型总体准确率最高？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.6
+        },
+        {
+          "question": "Tier 3 是什么，Qwen 在 Tier 3 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs",
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 55.87
+        },
+        {
+          "question": "Tier 4 为什么容易失败，Doubao 的主要错误原因是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs",
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 63.82
+        }
+      ]
+    },
+    {
+      "chunk_size": 800,
+      "top_k": 5,
+      "questions": 20,
+      "route_accuracy": 1.0,
+      "tool_trace_accuracy": 1.0,
+      "answer_check_rate": 1.0,
+      "retrieval_cases": 10,
+      "retrieval_hit_rate": 1.0,
+      "index_load_ms": 370.60399999609217,
+      "avg_latency_ms": 32.895,
+      "median_latency_ms": 28.595,
+      "p95_latency_ms": 62.35,
+      "details": [
+        {
+          "question": "Tier 1 的核心问题和判错红线是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 97.56
+        },
+        {
+          "question": "哪一层级重点检查元素串位、颜色污染和左右镜像？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 57.63
+        },
+        {
+          "question": "角色被大众脸拉回平均值属于哪一层级的失败？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 59.83
+        },
+        {
+          "question": "复杂设定里强元素吞掉弱元素属于哪类测试？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 59.98
+        },
+        {
+          "question": "鸣人的原子特征有哪些？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 62.35
+        },
+        {
+          "question": "马格纳的核对特征是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 57.64
+        },
+        {
+          "question": "人工看图固定扫描顺序是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 61.9
+        },
+        {
+          "question": "拒绝生成样本如何计分？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 56.3
+        },
+        {
+          "question": "四个模型各有多少错误图？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.74
+        },
+        {
+          "question": "哪个模型的错误图最多？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.64
+        },
+        {
+          "question": "Doubao 在 Tier 3 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.26
+        },
+        {
+          "question": "Qwen 在 Tier 2 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.44
+        },
+        {
+          "question": "ChatGPT 的总体准确率是多少？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.33
+        },
+        {
+          "question": "Doubao 的 Tier 4 准确率是多少？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 3.09
+        },
+        {
+          "question": "Doubao 的主要错误类型是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.72
+        },
+        {
+          "question": "ChatGPT Tier 2 的主要错误类型是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.54
+        },
+        {
+          "question": "比较 Qwen 和 Doubao 的总体准确率。",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.5
+        },
+        {
+          "question": "哪个模型总体准确率最高？",
+          "route_ok": true,
+          "tool_trace": [
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": null,
+          "latency_ms": 2.36
+        },
+        {
+          "question": "Tier 3 是什么，Qwen 在 Tier 3 有多少错误？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs",
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 53.75
+        },
+        {
+          "question": "Tier 4 为什么容易失败，Doubao 的主要错误原因是什么？",
+          "route_ok": true,
+          "tool_trace": [
+            "retrieve_eval_docs",
+            "analyze_results"
+          ],
+          "tool_trace_ok": true,
+          "answer_ok": true,
+          "retrieval_ok": true,
+          "latency_ms": 62.34
+        }
+      ]
+    }
+  ]
+}

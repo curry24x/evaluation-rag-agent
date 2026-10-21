@@ -1,0 +1,371 @@
+﻿Model,Image,Index,Tier,Character_or_Setting,Primary_Error_Pattern,Secondary_Error,Death_Tag,Detailed_Error_Description
+ChatGPT,apimart_东堂葵_(AoiTodo).png,56,Tier 2,东堂葵 (AoiTodo),P2 Signature Feature Missing,,额疤缺失,要求左额头有清晰长疤，图中额头表面平滑、该定位特征未生成，因此属于关键特征缺失。
+ChatGPT,apimart_丽日御茶子(OchacoUraraka).png,87,Tier 2,丽日御茶子(OchacoUraraka),P2 Signature Feature Missing,P3 Color Error,腮红缺失,要求茶色齐耳波波头及双颊粉红圆形腮红，图中腮红标记不清且发色偏粉，核心面部识别点没有稳定保留。
+ChatGPT,apimart_休塔尔克_(Stark).png,147,Tier 3,休塔尔克 (Stark),P2 Signature Feature Missing,P10 Character Feature Degradation,白刘海缺失,要求深红短发中保留突兀白刘海并带左眼下疤痕，图中红发被统一处理、白束与疤痕均不清，因此关键识别特征缺失。
+ChatGPT,apimart_佩可(Peco-Yutaka).png,170,Tier 3,佩可(Peco/Yutaka),P9 Character Genericization,P3 Color Error,少女模板化,目标是狗啃极短碎发、蓝白运动服的佩可并保持汤浅式狂放线条，图中却成为白发标准萌系少女，角色与画风均被普通模板覆盖。
+ChatGPT,apimart_六平千寻(ChihiroRokuhira).png,161,Tier 3,六平千寻(ChihiroRokuhira),P2 Signature Feature Missing,P4 Costume / Prop Error,刀疤特效缺,要求左脸横向深伤疤以及武士刀周围的水流金鱼特效，图中两项均未形成，只剩普通黑衣持刀男性。
+ChatGPT,apimart_冯·克雷_(Mr._2Bon_Clay).png,77,Tier 2,冯·克雷 (Mr. 2Bon Clay),P2 Signature Feature Missing,P8 Structural / Element Fusion Error,方颌胡茬缺,要求浓艳戏剧妆、方块下巴胡茬及背后两只独立假天鹅头，图中面部被美化且天鹅装饰与裙装纠缠，身份特征和结构边界同时失真。
+ChatGPT,apimart_冯·霍恩海姆(VanHohenheim).png,137,Tier 2,冯·霍恩海姆(VanHohenheim),P2 Signature Feature Missing,P4 Costume / Prop Error,眼镜胡须缺,要求圆形无框眼镜、金色山羊胡和低马尾，图中面部缺少眼镜与明确山羊胡，只呈现普通金发中年男性。
+ChatGPT,apimart_切岛锐儿郎(Eijiro_Kirishima).png,86,Tier 2,切岛锐儿郎(Eijiro Kirishima),P2 Signature Feature Missing,P4 Costume / Prop Error,眉疤缺失,要求右眉眼细疤并配黑色巨大齿轮肩甲，图中眉眼处没有可辨疤痕，肩甲造型也未准确保持。
+ChatGPT,apimart_南云_(Nagumo).png,160,Tier 3,南云 (Nagumo),P8 Structural / Element Fusion Error,P4 Costume / Prop Error,军刀粘连,要求一把结构清楚的六形态巨型瑞士军刀，图中多片刀刃围绕身体彼此穿插并与人物粘连，武器几何关系已经崩坏。
+ChatGPT,apimart_卡塔库栗(CharlotteKatakuri).png,80,Tier 2,卡塔库栗(CharlotteKatakuri),P2 Signature Feature Missing,P4 Costume / Prop Error,獠牙图腾缺,要求尖刺毛皮围巾下露出交错獠牙，并在左臂胸口保留粉色骷髅图腾，图中这些关键部位均不可辨，只保留了魁梧轮廓。
+ChatGPT,apimart_卡塔莉娜(Katarina_Claes).png,172,Tier 3,卡塔莉娜(Katarina Claes),P9 Character Genericization,P10 Character Feature Degradation,贵女模板化,目标应有浓密棕色大卷发、上挑蓝紫眼与夸张裙撑，图中被处理成常见蓝裙贵族女性，恶役颜艺和独特比例被平均化。
+ChatGPT,apimart_厄卡伦_(Okarun).png,150,Tier 3,厄卡伦 (Okarun),P5 Quantity Error,P10 Character Feature Degradation,多余分身,目标的普通眼镜状态与白发面具变身状态应清晰解耦，图中出现三个相似人物副本，数量增加且状态边界不明确。
+ChatGPT,apimart_原创设定：_岩浆主厨_(Magma-Chef).png,200,Tier 4,"原创设定：""岩浆主厨""(Magma-Chef)",P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,厨师条件缺,要求黑曜石厨师围裙、岩浆双手及把火球抛入中式炒锅，图中主要是火焰战士形象，厨师身份和明确投锅动作没有成立。
+ChatGPT,apimart_原创设定：_时空怪盗_(Chrono-Thief).png,199,Tier 4,"原创设定：""时空怪盗""(Chrono-Thief)",P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,怪盗条件弱,要求怀表风衣、机械表盘单片眼镜及能扭曲空气的手杖，图中只呈现泛化蒸汽朋克绅士，怪盗身份与空气波纹手杖未清楚体现。
+ChatGPT,apimart_古露娜_(Glüna).png,166,Tier 3,古露娜 (Glüna),P9 Character Genericization,P10 Character Feature Degradation,大众脸化,要求银白微荧光蓬松长发、深蓝眼和白毛边蓝大衣，图中虽保留蓝白配色，却变成常见白发幻想少女，毛绒光照与角色辨识度明显退化。
+ChatGPT,apimart_可可_(Coco).png,155,Tier 3,可可 (Coco),P9 Character Genericization,P10 Character Feature Degradation,画风模板化,要求折叠尖端宽沿帽并保持欧洲古典插画笔触，图中成为标准日漫金发小魔女，特殊帽体结构与原作视觉语言被弱化。
+ChatGPT,apimart_司波达也(Tatsuya_Shiba).png,140,Tier 2,司波达也(Tatsuya Shiba),P4 Costume / Prop Error,P9 Character Genericization,校徽缺失,要求第一高中制服领口有清晰八芒星徽章，图中制服被简化为普通白青校服且领口徽章不可辨，角色也趋于通用校园男生。
+ChatGPT,apimart_吉良吉影(Yoshikage_Kira).png,127,Tier 2,吉良吉影(Yoshikage Kira),P8 Structural / Element Fusion Error,P10 Character Feature Degradation,领带纹崩,要求深色领带密布微小白色猫耳骷髅头，图中领带纹样被化成不可识别装饰，规则微图案在布面上发生几何退化。
+ChatGPT,apimart_坂本_(Sakamoto).png,139,Tier 2,坂本 (Sakamoto),P2 Signature Feature Missing,,眼镜泪痣缺,要求黑框智能眼镜与右眼下泪痣同时存在，图中两项面部定位特征均不清，只剩普通黑发制服男性。
+ChatGPT,apimart_坂本太郎_(TaroSakamoto).png,158,Tier 3,坂本太郎 (TaroSakamoto),P2 Signature Feature Missing,P3 Color Error,小胡子缺失,要求圆胖体型配两撇黑小胡子和细框圆眼镜，图中虽有围裙与眼镜，但黑色小胡子缺失且发色偏灰，面部身份点不完整。
+ChatGPT,apimart_坂田银时(Gintoki Sakata).png,14,Tier 1,坂田银时(Gintoki Sakata),P4 Costume / Prop Error,P6 Spatial / Left-Right Error,木刀造型错,要求腰间木刀带“洞爷湖”字样且和服非对称半穿，图中刀身文字不可辨、穿法趋于常规，标志道具与空间穿着关系均未还原。
+ChatGPT,apimart_壬氏_(Jinshi).png,144,Tier 3,壬氏 (Jinshi),P10 Character Feature Degradation,P9 Character Genericization,男性骨相弱,目标是兼具男性骨相与极致阴柔美貌的壬氏，图中被直接女性化为普通紫发宫廷美人，跨性别骨相特征明显退化。
+ChatGPT,apimart_夏亚_(CharAznable).png,106,Tier 2,夏亚 (CharAznable),P2 Signature Feature Missing,P4 Costume / Prop Error,面罩错形,要求银色怪异护目面具遮挡大半张脸，图中仅生成小型机械眼罩，遮挡面积和结构均不足，核心身份面罩没有成立。
+ChatGPT,apimart_奇弗雷_(Qifrey).png,156,Tier 3,奇弗雷 (Qifrey),P2 Signature Feature Missing,P6 Spatial / Left-Right Error,单片镜缺失,要求银发单侧遮眼并在左眼佩戴单片眼镜，图中左眼镜片缺失且遮眼关系不清，非对称面部结构被抹平。
+ChatGPT,apimart_妮可·罗宾_(NicoRobin).png,71,Tier 2,妮可·罗宾 (NicoRobin),P2 Signature Feature Missing,P9 Character Genericization,多手能力缺,要求双手交叉并在虚空生成多只手臂，图中没有额外手臂，只呈现普通黑发女性，能力标志完全缺失。
+ChatGPT,apimart_尼可_(NicoVorgeil).png,179,Tier 3,尼可 (NicoVorgeil),P2 Signature Feature Missing,P3 Color Error,圆眼镜缺失,要求黑白参差短发、厚重反光圆眼镜及多个悬浮黑球，图中虽有球形装置，但圆眼镜与黑白发分区不清，身份关键点不完整。
+ChatGPT,apimart_弥海砂_(MisaAmane).png,118,Tier 2,弥海砂 (MisaAmane),P4 Costume / Prop Error,P2 Signature Feature Missing,哥特配饰缺,要求项圈、锁链皮带、网袜及双手十字架戒指构成重哥特造型，图中服饰被简化为常见黑裙，密集金属配饰大多缺失。
+ChatGPT,apimart_悲鸣屿行冥(GyomeiHimejima).png,64,Tier 2,悲鸣屿行冥(GyomeiHimejima),P2 Signature Feature Missing,P4 Costume / Prop Error,盲眼泪痕缺,要求全白盲眼持续流泪并有横贯额头伤疤，图中眼睛、泪痕和额疤均不清；锁链铁球阔斧也未完整分离。
+ChatGPT,apimart_成振宇_(SungJinwoo).png,153,Tier 3,成振宇 (SungJinwoo),P10 Character Feature Degradation,P9 Character Genericization,条漫风退化,要求锐利韩系条漫面部与蓝紫发光眼睛，图中只保留黑衣紫色光效，眼部和锋利角色气质被一般化。
+ChatGPT,apimart_斯派克_(SpikeSpiegel).png,129,Tier 2,斯派克 (SpikeSpiegel),P2 Signature Feature Missing,P10 Character Feature Degradation,香烟义眼缺,要求右眼具人工义眼锐利感并斜叼细长香烟，图中这两处细节均未显现，虽有蓝西装绿发但仍像通用复古男主。
+ChatGPT,apimart_朝仓新_(ShinAsakura).png,159,Tier 3,朝仓新 (ShinAsakura),P2 Signature Feature Missing,P3 Color Error,耳机缺失,要求太阳穴有耳机设备且发色为淡金，图中耳机不可见并被画成偏白发色，关键职业化面部装置缺失。
+ChatGPT,apimart_本条二亚_(NiaHonjou).png,104,Tier 2,本条二亚 (NiaHonjou),P2 Signature Feature Missing,P4 Costume / Prop Error,准星瞳缺失,要求右眼十字准星瞳、巨大十字头纱及修女机甲服，图中成为普通长发修女，特殊眼睛和机甲融合均未形成。
+ChatGPT,apimart_桐谷和人_(Kirito).png,29,Tier 1,桐谷和人 (Kirito),P5 Quantity Error,P6 Spatial / Left-Right Error,双剑缺失,要求背后两把单手剑呈X形交叉，图中只出现一把可辨长剑，数量不足且交叉背负关系没有成立。
+ChatGPT,apimart_正在检修发光量子计算机终端的猫猫.png,188,Tier 4,正在检修发光量子计算机终端的猫猫,P1 Character Identity Error,P12 Multi-concept Fusion Failure,角色被猫化,要求保留猫猫的深绿发与雀斑身份并进行量子终端检修，图中把“猫猫”误化为猫耳科技少女，原角色身份被赛博设定吞没。
+ChatGPT,apimart_涅茧利_(MayuriKurotsuchi).png,47,Tier 2,涅茧利 (MayuriKurotsuchi),P2 Signature Feature Missing,P4 Costume / Prop Error,金锥耳饰缺,要求黑白骷髅脸绘与双耳巨大金色圆锥装饰，图中头部被简化成白色骨面头罩，金锥耳饰和蓝发均未准确出现。
+ChatGPT,apimart_爱德华·纽盖特(Whitebeard).png,79,Tier 2,爱德华·纽盖特(Whitebeard),P2 Signature Feature Missing,,月牙胡缺失,要求脸上有唯一且巨大的白色上翘新月胡子，图中上唇区域没有该高辨识度轮廓，因此核心身份特征缺失。
+ChatGPT,apimart_特拉法尔加·罗(Trafalgar_Law).png,75,Tier 2,特拉法尔加·罗(Trafalgar Law),P2 Signature Feature Missing,P4 Costume / Prop Error,纹身帽纹缺,要求双臂手背黑色图腾纹身及黄斑毛绒帽正面的黑色笑脸，图中这些细小符号不完整，帽子与皮肤上的标志图案均被弱化。
+ChatGPT,apimart_狛村左阵_(SajinKomamura).png,48,Tier 2,狛村左阵 (SajinKomamura),P2 Signature Feature Missing,P8 Structural / Element Fusion Error,狼爪缺失,要求拟人棕狼头与双手狼爪同时保留，图中头部虽为犬科，但手部仍趋于人手且肩甲边界含混，兽人结构不完整。
+ChatGPT,apimart_用武士刀切开巨大悬浮披萨的六平千寻.png,190,Tier 4,用武士刀切开巨大悬浮披萨的六平千寻,P11 Prompt Condition Omission,P2 Signature Feature Missing,刀效条件缺,要求刀身同时燃黑火并带金鱼水流特效，再切入失重拉丝披萨；图中披萨存在，但黑火、金鱼及左脸刀疤均未清楚生成。
+ChatGPT,apimart_真希波_(MariMakinami).png,116,Tier 2,真希波 (MariMakinami),P2 Signature Feature Missing,P3 Color Error,半框镜缺失,要求红色仅上半框眼镜与深棕双麻花辫，图中眼镜缺失且发色偏紫，只保留了粉色战斗服。
+ChatGPT,apimart_禅院真希_(MakiZen'in).png,50,Tier 2,禅院真希 (MakiZen'in),P2 Signature Feature Missing,P4 Costume / Prop Error,半框镜缺失,要求下半框方片眼镜、深绿高马尾及红色长柄薙刀，图中眼镜不可见，武器也被泛化为普通长杆兵器。
+ChatGPT,apimart_穿宇航服拿着光剑的油女志乃.png,181,Tier 4,穿宇航服拿着光剑的油女志乃,P12 Multi-concept Fusion Failure,P2 Signature Feature Missing,角色吞没,要求油女志乃的小圆墨镜身份与白色重型宇航服、蓝光剑并存，图中头盔与面罩覆盖面部，人物只剩通用宇航员，原角色被设定吞没。
+ChatGPT,apimart_纳甘夫人_(LadyNagant).png,89,Tier 2,纳甘夫人 (LadyNagant),P8 Structural / Element Fusion Error,P6 Spatial / Left-Right Error,枪臂接合错,要求右臂本身异化成带瞄准镜的狙击枪管，图中枪械像外置武器并与手臂接合含混，软体到机械的结构融合失败。
+ChatGPT,apimart_绫濑桃_(MomoAyase).png,149,Tier 3,绫濑桃 (MomoAyase),P2 Signature Feature Missing,P10 Character Feature Degradation,大耳环缺失,要求夸张大耳环与涉谷太妹妆造，图中耳饰不明显且整体变成普通校服少女，标志配饰与辣妹气质均被削弱。
+ChatGPT,apimart_罗伊·马斯坦(Roy_Mustang).png,92,Tier 2,罗伊·马斯坦(Roy Mustang),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,手套阵纹缺,要求白手套上有清晰红色炼金阵并做打响指姿态，图中手套纹样不可辨、手势也没有形成可靠的打响指关系。
+ChatGPT,apimart_芥川龙之介(RyunosukeAkutagawa).png,98,Tier 2,芥川龙之介(RyunosukeAkutagawa),P4 Costume / Prop Error,P2 Signature Feature Missing,罗生门缺失,要求黑外套下摆异化为黑红锯齿多头异兽，图中只有普通黑色和服轮廓，罗生门结构与发尾白渐变均未出现。
+ChatGPT,apimart_蝴蝶忍_(ShinobuKocho).png,60,Tier 2,蝴蝶忍 (ShinobuKocho),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,特制刀错误,要求细长日轮刀只有刀尖具刃，图中生成成常规完整刀刃，特殊武器结构未按红线保留。
+ChatGPT,apimart_蝶野雏_(HinaChono).png,164,Tier 3,蝶野雏 (HinaChono),P9 Character Genericization,P10 Character Feature Degradation,体操脸泛化,目标应以栗色短卷发和独特运动感呈现蝶野雏，图中虽有丝带，却成为通用体操少女，角色脸与原作气质缺乏辨识度。
+ChatGPT,apimart_西索_(HisokaMorow).png,101,Tier 2,西索 (HisokaMorow),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,脸绘错位,要求左脸深色五角星、右脸浅色水滴，图中两侧脸绘的形状与方向关系未准确对应，非对称符号发生错位。
+ChatGPT,apimart_赛伯星人(Serpoians).png,152,Tier 3,赛伯星人(Serpoians),P10 Character Feature Degradation,P9 Character Genericization,异形眼弱化,要求巨大无瞳倒梯形眼和硅胶质皮肤，图中被改成常见椭圆黑眼灰色外星人，特殊眼形与复古异形语言明显退化。
+ChatGPT,apimart_赤木茂_(AkagiShigeru).png,167,Tier 3,赤木茂 (AkagiShigeru),P9 Character Genericization,P10 Character Feature Degradation,福本脸美化,要求尖锥下巴、大长鼻和骨感银色大背头，图中被修正成比例正常的银发成年男性，福本式夸张脸型被美化抹平。
+ChatGPT,apimart_越前龙马(RyomaEchizen).png,13,Tier 1,越前龙马(RyomaEchizen),P4 Costume / Prop Error,P3 Color Error,帽徽球拍错,要求白帽有清晰F标志并手持红色网球拍，图中帽徽不可辨且球拍配色偏离，标志装备未准确保持。
+ChatGPT,apimart_路德_(Rudo).png,157,Tier 3,路德 (Rudo),P9 Character Genericization,P2 Signature Feature Missing,废土脸泛化,要求左脸黑斑污垢、护目镜防毒面具与巨型金属手套，图中变成厚重装甲的泛化废土战士，角色脸和涂鸦式个性被装备覆盖。
+ChatGPT,apimart_迪奥·布兰度(DIO).png,126,Tier 2,迪奥·布兰度(DIO),P2 Signature Feature Missing,P10 Character Feature Degradation,耳痣缺失,要求左耳三颗成直线黑痣并保持夸张后弯JOJO姿势，图中耳痣不可辨且姿态趋于普通站立，身份细节与气质均被弱化。
+ChatGPT,apimart_迪蒙_(Daemon).png,142,Tier 3,迪蒙 (Daemon),P2 Signature Feature Missing,P9 Character Genericization,月相瞳缺失,要求半月相几何瞳孔和儿童年龄感，图中眼睛为普通动漫瞳并呈现通用白发少年，核心特殊眼形缺失。
+ChatGPT,apimart_迪达拉_(Deidara).png,44,Tier 2,迪达拉 (Deidara),P2 Signature Feature Missing,P8 Structural / Element Fusion Error,掌心嘴缺失,要求双手掌心各有微小嘴巴并在左眼佩机械瞄准器，图中掌心器官没有生成，眼部装置也不清楚。
+ChatGPT,apimart_银卡_(Ginka).png,165,Tier 3,银卡 (Ginka),P9 Character Genericization,P10 Character Feature Degradation,雪人模板化,要求由圆润白色球体、极简黑圆眼和小礼帽构成银卡，图中被处理成常见拟人雪人，原角色的极简比例与神态丢失。
+ChatGPT,apimart_长出金色及地超级赛亚人长发的琦玉.png,187,Tier 4,长出金色及地超级赛亚人长发的琦玉,P12 Multi-concept Fusion Failure,P11 Prompt Condition Omission,角色吞没,要求琦玉的极简光头五官与及地金色倒竖长发同时成立，图中巨大发量压过面部与黄制服，蓝白闪电条件也不充分，融合失衡。
+ChatGPT,apimart_间桐樱_(SakuraMatou).png,125,Tier 2,间桐樱 (SakuraMatou),P4 Costume / Prop Error,P2 Signature Feature Missing,校服发带错,要求暗褐色长袖校服及左侧极细亮紫红发带，图中成为普通浅色校服紫发少女，指定服装与单侧发带均未稳定出现。
+ChatGPT,apimart_韩吉·佐耶(Hange_Zoe).png,95,Tier 2,韩吉·佐耶(Hange Zoe),P2 Signature Feature Missing,P10 Character Feature Degradation,护目镜缺失,要求皮质绑带老式护目镜或后期单眼罩，图中眼部完全裸露且人物被处理成普通男性士兵，身份和疯狂气质均受损。
+ChatGPT,apimart_马格纳_(MagnaSwing).png,169,Tier 3,马格纳 (MagnaSwing),P2 Signature Feature Missing,P3 Color Error,墨镜缺失,要求圆形反光黑墨镜和黑灰分区高耸飞机头，图中墨镜不可见且发型配色偏离，只保留燃烧球棒。
+ChatGPT,apimart_高仓健_(Jiji).png,151,Tier 3,高仓健 (Jiji),P5 Quantity Error,P10 Character Feature Degradation,多余分身,目标角色与全白眼变身特征应在单一主体上清楚呈现，图中出现两个相似男性副本，数量增加且变身状态被拆散。
+ChatGPT,apimart_鹿野千夏(Chinatsu_Kano).png,163,Tier 3,鹿野千夏(Chinatsu Kano),P9 Character Genericization,P10 Character Feature Degradation,篮球脸泛化,要求黑色过肩直发、白底球衣与写实橘色篮球并保持角色微表情，图中虽有篮球语境，却成为通用运动少女，脸与画风缺乏专属性。
+ChatGPT,apimart_齐木楠雄_(KusuoSaiki).png,180,Tier 3,齐木楠雄 (KusuoSaiki),P10 Character Feature Degradation,P9 Character Genericization,超能脸弱化,要求无框绿色高光眼镜、两侧天线及完全面瘫气质，图中主要元素尚在，但镜框与神态被普通动漫化，角色独特视觉语言明显减弱。
+Doubao,doubao_L_(L_Lawliet).png,117,Tier 2,L (L Lawliet),P2 Signature Feature Missing,P10 Character Feature Degradation,眼袋弱化,要求深眼眶、厚重黑眼袋和苍白病态皮肤，图中眼周阴影很浅，主要只保留黑卷发与蜷缩坐姿，面部标志被弱化。
+Doubao,doubao_一方通行(Accelerator).png,91,Tier 2,一方通行(Accelerator),P10 Character Feature Degradation,P9 Character Genericization,病态感弱,要求苍白病态气质与深红瞳孔，图中虽有白发、条纹衫和颈圈，却被处理成常见纤细白发少年，危险病态感不足。
+Doubao,doubao_七海建人_(KentoNanami).png,49,Tier 2,七海建人 (KentoNanami),P4 Costume / Prop Error,,钝刀绑带缺,要求手持被绷带缠绕的钝刀，图中生成的是裸露金属短刀，刀身材质和包裹结构均不符合指定道具。
+Doubao,doubao_东堂葵_(AoiTodo).png,56,Tier 2,东堂葵 (AoiTodo),P2 Signature Feature Missing,,额疤缺失,要求左额头有清晰长疤，图中肌肉、短发和小辫均在，但额头没有可辨伤疤，定位身份特征缺失。
+Doubao,doubao_中原中也_(ChuyaNakahara).png,97,Tier 2,中原中也 (ChuyaNakahara),P3 Color Error,P2 Signature Feature Missing,发色错误,要求赭色中长发并垂一缕卷发，图中头发整体变成金黄色，皮质项圈也不明显，核心配色发生偏移。
+Doubao,doubao_丽日御茶子(OchacoUraraka).png,87,Tier 2,丽日御茶子(OchacoUraraka),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,后跟造型错,要求厚重半圆后跟长靴，图中被画成普通粉色高跟长靴，足部圆筒气囊与鞋跟结构没有准确结合。
+Doubao,doubao_亚连·沃克_(AllenWalker).png,173,Tier 3,亚连·沃克 (AllenWalker),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,星疤左右错,要求红色五角星疤痕贯穿左眼，图中星疤落在人物右眼侧，关键非对称面部标记发生左右镜像。
+Doubao,doubao_伏黑惠_(MegumiFushiguro).png,32,Tier 1,伏黑惠 (MegumiFushiguro),P8 Structural / Element Fusion Error,,结印手崩,要求双手交叉完成清楚的结印，图中手指相互遮挡并形成不可靠的缠绕形态，结印几何关系不成立。
+Doubao,doubao_佩可(Peco-Yutaka).png,170,Tier 3,佩可(Peco/Yutaka),P9 Character Genericization,P10 Character Feature Degradation,画风模板化,目标应保留狗啃短发与汤浅式超广角狂放运动线条，图中成为常规黑发运动少年立绘，角色脸和动态视觉语言被平均化。
+Doubao,doubao_六平千寻(ChihiroRokuhira).png,161,Tier 3,六平千寻(ChihiroRokuhira),P2 Signature Feature Missing,P10 Character Feature Degradation,左脸疤缺失,要求左脸横向深伤疤并配死鱼眼，图中面颊平滑、眼神也被美型化；水流金鱼刀效虽出现，身份面部特征仍缺失。
+Doubao,doubao_冯·克雷_(Mr._2Bon_Clay).png,77,Tier 2,冯·克雷 (Mr. 2Bon Clay),P2 Signature Feature Missing,P9 Character Genericization,方颌胡茬缺,要求方块下巴胡茬和夸张人妖戏剧妆，图中被塑造成光滑女性芭蕾舞者，虽有天鹅元素但核心面部身份被美化掉。
+Doubao,doubao_冯·霍恩海姆(VanHohenheim).png,137,Tier 2,冯·霍恩海姆(VanHohenheim),P10 Character Feature Degradation,P9 Character Genericization,面部模板化,要求低马尾、无框圆眼镜与金色山羊胡共同塑造霍恩海姆，图中这些元素虽大致存在，但脸被压成通用金发绅士，角色年龄感和辨识度不足。
+Doubao,doubao_南云_(Nagumo).png,160,Tier 3,南云 (Nagumo),P5 Quantity Error,P8 Structural / Element Fusion Error,刀刃数量错,要求六形态巨型瑞士军刀，图中扇形刀片数量与六形态不一致，多个刀刃还在根部挤叠，武器结构失真。
+Doubao,doubao_卡卡西_(KakashiHatake).png,111,Tier 2,卡卡西 (KakashiHatake),P2 Signature Feature Missing,P6 Spatial / Left-Right Error,眼疤缺失,要求左眼被斜护额遮挡且有纵向刀疤，图中遮眼护额存在，但疤痕未从眼部形成清晰纵向延伸，定位特征不完整。
+Doubao,doubao_卡塔库栗(CharlotteKatakuri).png,80,Tier 2,卡塔库栗(CharlotteKatakuri),P2 Signature Feature Missing,P4 Costume / Prop Error,骷髅图腾缺,要求左臂胸口有粉色骷髅图腾，图中胸臂皮肤没有该标志；围巾与獠牙虽出现，身份纹样仍缺失。
+Doubao,doubao_卡塔莉娜(Katarina_Claes).png,172,Tier 3,卡塔莉娜(Katarina Claes),P7 Attribute Misbinding,P8 Structural / Element Fusion Error,裙撑骨骼化,要求巨型骨架裙撑支撑中世纪长裙，图中把“骨架”字面化为外露人体肋骨装饰，结构属性绑定到了错误对象。
+Doubao,doubao_卫宫切嗣(Kiritsugu_Emiya).png,133,Tier 2,卫宫切嗣(Kiritsugu Emiya),P2 Signature Feature Missing,P10 Character Feature Degradation,胡茬缺失,要求严重黑眼圈与不修边幅下巴胡茬，图中面部过于干净，只保留黑衣和枪械，疲惫杀手气质被削弱。
+Doubao,doubao_卯之花烈_(RetsuUnohana).jpeg,178,Tier 3,卯之花烈 (RetsuUnohana),P4 Costume / Prop Error,P10 Character Feature Degradation,死霸装错误,要求黑色死霸装外配白羽织，图中变成整套白色和服，黑白服装层次被抹去，角色也更像普通和风女性。
+Doubao,doubao_厄卡伦_(Okarun).png,150,Tier 3,厄卡伦 (Okarun),P4 Costume / Prop Error,P10 Character Feature Degradation,变身面具错,要求变身后白发配黑白下半脸面具，图中背后形象戴成完整兽角面具，面具范围与角色状态均偏离。
+Doubao,doubao_原创设定：_岩浆主厨_(Magma-Chef).png,200,Tier 4,"原创设定：""岩浆主厨""(Magma-Chef)",P11 Prompt Condition Omission,P8 Structural / Element Fusion Error,岩浆双手缺,要求双手本身由亮橙液态岩浆构成，图中双手仍是普通人体，只在掌外附加火焰；厨师、火球和炒锅虽在，关键材质条件遗漏。
+Doubao,doubao_原创设定：_时空怪盗_(Chrono-Thief).png,199,Tier 4,"原创设定：""时空怪盗""(Chrono-Thief)",P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,怪盗条件弱,要求手杖顶端明确扭曲空气并呈现时空怪盗感，图中主要是钟表装饰绅士，空气波纹与盗贼行动属性表达不足。
+Doubao,doubao_原创设定：_机甲女仆阿尔法_(Mecha-MaidAlpha).png,198,Tier 4,"原创设定：""机甲女仆阿尔法""(Mecha-MaidAlpha)",P8 Structural / Element Fusion Error,P12 Multi-concept Fusion Failure,机体粘连,要求镀铬裙摆、肩部排气管与蓝电除尘掸彼此清楚，图中大量管件和机械臂在肩背拥挤交叉，女仆身体与装备边界混乱。
+Doubao,doubao_原创设定：_森之狂战士_(Flora-Berserker).png,197,Tier 4,"原创设定：""森之狂战士""(Flora-Berserker)",P6 Spatial / Left-Right Error,P7 Attribute Misbinding,玫瑰位置错,要求血红玫瑰只作为左眼眼罩，图中玫瑰横在面部中央并遮住双眼，花朵位置与眼罩属性均发生错配。
+Doubao,doubao_原创设定：_水之法师卡埃尔_(Aqua-MageKael).png,192,Tier 4,"原创设定：""水之法师卡埃尔""(Aqua-MageKael)",P11 Prompt Condition Omission,P4 Costume / Prop Error,水母冠不清,要求头顶是可辨的活体微型水母皇冠，图中只形成泛化发光水冠，水母个体与生命结构没有表现出来。
+Doubao,doubao_原创设定：_空之骑士_(Aero-Knight).png,194,Tier 4,"原创设定：""空之骑士""(Aero-Knight)",P11 Prompt Condition Omission,P4 Costume / Prop Error,闪电枪缺失,要求手持尖锐曲折的金色闪电状长枪，图中彩玻璃翅膀和银甲已出现，但武器完全缺失，因此组合条件未全覆盖。
+Doubao,doubao_原创设定：_蒸汽朋克炼金术士_.png,193,Tier 4,"原创设定：""蒸汽朋克炼金术士""",P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,蒸汽油渍缺,要求高礼帽冒白蒸汽且皮大衣沾黑机油，图中齿轮、机械臂和蓝烧瓶存在，但蒸汽与油污材质不明显，设定覆盖不完整。
+Doubao,doubao_原创设定：_虚空女祭司__(VoidPriestess).png,195,Tier 4,"原创设定：""虚空女祭司"" (VoidPriestess)",P7 Attribute Misbinding,P11 Prompt Condition Omission,黑环发光,要求头顶光环为纯黑吸光材质，图中光环带强烈白色星芒和发光边缘，黑体属性被绑定成发光天体；银河瞳孔也不清。
+Doubao,doubao_原创设定：_赛博武士X_(Cyber-SamuraiX).png,191,Tier 4,"原创设定：""赛博武士X""(Cyber-SamuraiX)",P6 Spatial / Left-Right Error,P7 Attribute Misbinding,面罩悬空,要求绿色数字矩阵全息遮罩贴合面部，图中文字矩形漂浮在头前并完全遮住脸，面罩与人物的空间附着关系错误。
+Doubao,doubao_原创设定：_霓虹忍者夜_(Neon-NinjaYoru).png,196,Tier 4,"原创设定：""霓虹忍者夜""(Neon-NinjaYoru)",P4 Costume / Prop Error,P12 Multi-concept Fusion Failure,光刃形态错,要求手持短兵形态的纯能量光刃，图中生成成长柄双头霓虹棍，武器类别和长度均与设定不符。
+Doubao,doubao_古露娜_(Glüna).png,166,Tier 3,古露娜 (Glüna),P9 Character Genericization,P10 Character Feature Degradation,白发少女化,要求银白微荧光蓬松长发、深蓝眼和白毛边蓝大衣，图中虽保留配色，却成为标准萌系白发少女，角色专属脸与光学质感不足。
+Doubao,doubao_司波达也(Tatsuya_Shiba).png,140,Tier 2,司波达也(Tatsuya Shiba),P4 Costume / Prop Error,P9 Character Genericization,八芒星缺,要求第一高中制服领口有八芒星徽章，图中穿的是普通西装式校服且胸章为泛化盾徽，指定制服标志没有生成。
+Doubao,doubao_吉良吉影(Yoshikage_Kira).png,127,Tier 2,吉良吉影(Yoshikage Kira),P7 Attribute Misbinding,P8 Structural / Element Fusion Error,领带纹串位,要求猫耳骷髅微图案只密布在深色领带上，图中花纹跑到整件灰西装，领带反而近乎纯黑，纹样属性发生对象串位。
+Doubao,doubao_在演唱会舞台上弹奏电吉他的罗罗诺亚·索隆.png,186,Tier 4,在演唱会舞台上弹奏电吉他的罗罗诺亚·索隆,P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,极光彩绘缺,要求赤裸上身覆盖荧光极光彩绘，图中索隆、吉他和咬拨片均可见，但皮肤几乎为普通肤色，舞台彩绘条件未落实。
+Doubao,doubao_坂本_(Sakamoto).png,139,Tier 2,坂本 (Sakamoto),P5 Quantity Error,P8 Structural / Element Fusion Error,多余人物,要求单一坂本主体，图中同时出现巨大头像与后方全身人物，重复生成造成数量增加和不合理尺度叠置。
+Doubao,doubao_坂田银时(Gintoki_Sakata).jpeg,14,Tier 1,坂田银时(Gintoki Sakata),P4 Costume / Prop Error,P6 Spatial / Left-Right Error,和服穿法错,要求白蓝云纹和服只穿一半并露出非对称层次，图中和服被规整地完整穿着，标志性的偏置穿法没有表现。
+Doubao,doubao_奈良鹿丸(ShikamaruNara).png,112,Tier 2,奈良鹿丸(ShikamaruNara),P2 Signature Feature Missing,P10 Character Feature Degradation,耳环缺失,要求高菠萝马尾之外还保留隐秘银质耳环，图中耳侧没有可辨耳环，慵懒神态也被处理得较为普通。
+Doubao,doubao_妮可·罗宾_(NicoRobin).png,71,Tier 2,妮可·罗宾 (NicoRobin),P2 Signature Feature Missing,P9 Character Genericization,多手能力缺,要求双手交叉并在虚空生成多只手臂，图中只有正常双臂，角色被画成普通黑发红裙女性，能力标志完全遗漏。
+Doubao,doubao_富冈义勇_(GiyuTomioka).png,62,Tier 2,富冈义勇 (GiyuTomioka),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,羽织左右反,要求人物左侧为几何方块、右侧为纯红羽织，图中两侧图案发生镜像互换，非对称服装绑定错误。
+Doubao,doubao_尼可_(NicoVorgeil).png,179,Tier 3,尼可 (NicoVorgeil),P3 Color Error,P2 Signature Feature Missing,双色发缺失,要求黑白相间的参差短发，图中头发几乎全黑；圆眼镜和悬浮球虽在，最显眼的发色分区未保留。
+Doubao,doubao_尼飞彼多(Neferpitou).png,100,Tier 2,尼飞彼多(Neferpitou),P4 Costume / Prop Error,P7 Attribute Misbinding,制服结构错,要求深蓝高领制服配球形关节膝盖，图中变成短裙式校园制服，膝部机械球虽出现但与原服装体系不匹配。
+Doubao,doubao_山治_(Sanji).png,110,Tier 2,山治 (Sanji),P2 Signature Feature Missing,P10 Character Feature Degradation,卷眉缺失,要求露出蚊香状圆圈眉毛，图中被头发遮挡的一侧没有形成可辨卷眉，角色只剩金发黑西装与香烟。
+Doubao,doubao_干柿鬼鲛(KisameHoshigaki).png,43,Tier 2,干柿鬼鲛(KisameHoshigaki),P7 Attribute Misbinding,P1 Character Identity Error,鲨鱼头错配,要求人形面孔保留鳃裂与鲨鱼鳍状头发，图中直接生成完整鲨鱼头，动物属性从皮肤和发型串位到整张脸。
+Doubao,doubao_弥海砂_(MisaAmane).png,118,Tier 2,弥海砂 (MisaAmane),P9 Character Genericization,P10 Character Feature Degradation,哥特脸泛化,要求重眼影、锁链项圈、网袜和十字戒指形成弥海砂身份，图中虽有哥特服饰，却更像通用金发哥特少女，脸部辨识度不足。
+Doubao,doubao_影山飞雄_(TobioKageyama).png,37,Tier 1,影山飞雄 (TobioKageyama),P6 Spatial / Left-Right Error,P8 Structural / Element Fusion Error,托球姿势错,要求手掌稳定托举排球，图中双手从两侧压住球体，接触姿态与“托举”关系不符，手球空间关系失真。
+Doubao,doubao_忍野忍_(ShinobuOshino).png,122,Tier 2,忍野忍 (ShinobuOshino),P10 Character Feature Degradation,P9 Character Genericization,幼态脸弱化,要求锐利金色猫眼与忍野忍特有的非人气质，图中被画成普通猫耳护目镜金发少女，甜甜圈存在但角色脸被模板化。
+Doubao,doubao_战场原黑仪(HitagiSenjougahara).png,121,Tier 2,战场原黑仪(HitagiSenjougahara),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,文具武器错,要求双手持多把打开的订书机或美工刀，图中生成成一束相似金属刀片，现代文具形态无法辨认。
+Doubao,doubao_斯派克_(SpikeSpiegel).png,129,Tier 2,斯派克 (SpikeSpiegel),P2 Signature Feature Missing,P10 Character Feature Degradation,香烟义眼缺,要求右眼呈人工义眼锐利感并斜叼细长香烟，图中两处均未体现，只保留绿发蓝西装的表层配色。
+Doubao,doubao_日向宁次_(NejiHyuga).png,42,Tier 2,日向宁次 (NejiHyuga),P4 Costume / Prop Error,P2 Signature Feature Missing,额带类型错,要求额头缠绕素色绷带，图中改成带木叶标志的忍者护额，头部道具类型与材质均错误。
+Doubao,doubao_星野爱_(AiHoshino).png,26,Tier 1,星野爱 (AiHoshino),P2 Signature Feature Missing,P4 Costume / Prop Error,兔星夹错,要求一侧兔子样式星星发夹，图中是普通星形配白色装饰，兔形结构不清，标志发饰被简化。
+Doubao,doubao_朝田诗乃_(Sinon).png,135,Tier 2,朝田诗乃 (Sinon),P2 Signature Feature Missing,P10 Character Feature Degradation,短发轮廓错,要求水蓝短发并仅在两颊垂下长发束，图中整体头发拉成长发，角色发型轮廓未按原子特征保持。
+Doubao,doubao_本条二亚_(NiaHonjou).png,104,Tier 2,本条二亚 (NiaHonjou),P7 Attribute Misbinding,P2 Signature Feature Missing,准星变眼罩,要求右眼内部呈十字准星瞳孔，图中却生成遮住眼睛的黑色眼罩，眼睛属性被错误转化为外部配饰。
+Doubao,doubao_桐谷和人_(Kirito).png,29,Tier 1,桐谷和人 (Kirito),P5 Quantity Error,P4 Costume / Prop Error,双剑全缺,要求背后两把单手剑呈X形交叉，图中背部没有可辨武器，数量从两把降为零，核心装备完全缺失。
+Doubao,doubao_梅路艾姆(Meruem).png,99,Tier 2,梅路艾姆(Meruem),P8 Structural / Element Fusion Error,P7 Attribute Misbinding,虫甲接合错,要求昆虫甲壳、人体躯干和倒刺长尾自然结合，图中尾部与骨盆连接突兀、甲片关节生硬，异形身体结构不自洽。
+Doubao,doubao_樱木花道(HanamichiSakuragi).png,12,Tier 1,樱木花道(HanamichiSakuragi),P10 Character Feature Degradation,P9 Character Genericization,体型幼化,要求高大匀称肌肉体型与Q版逗趣面部并存，图中整个人都缩成幼童式Q版比例，高大篮球运动员特征被吞掉。
+Doubao,doubao_死柄木吊(TomuraShigaraki).png,84,Tier 2,死柄木吊(TomuraShigaraki),P5 Quantity Error,P6 Spatial / Left-Right Error,断手数量少,要求全身布满大量苍白断手并形成抓握，图中断手主要集中在肩臂且数量明显不足，关键群体元素的分布也不完整。
+Doubao,doubao_油女志乃_(ShinoAburame).png,41,Tier 2,油女志乃 (ShinoAburame),P5 Quantity Error,P10 Character Feature Degradation,虫群变巨虫,要求细小黑色寄坏虫群围绕人物，图中只出现少量放大的独立昆虫，群聚尺度和数量关系被破坏。
+Doubao,doubao_涅茧利_(MayuriKurotsuchi).png,47,Tier 2,涅茧利 (MayuriKurotsuchi),P7 Attribute Misbinding,P10 Character Feature Degradation,脸绘变面具,要求黑白骷髅图案是贴合面部的彩绘，图中生成成独立立体骷髅面具，平面妆容属性被错误绑定为头戴物。
+Doubao,doubao_狛村左阵_(SajinKomamura).png,48,Tier 2,狛村左阵 (SajinKomamura),P2 Signature Feature Missing,P7 Attribute Misbinding,狼爪缺失,要求巨大棕狼头与双手狼爪，图中手臂和拳头仍接近裸露人类肌肉，兽人特征只集中在头部。
+Doubao,doubao_猫猫_(Maomao).png,143,Tier 3,猫猫 (Maomao),P2 Signature Feature Missing,P10 Character Feature Degradation,雀斑缺失,要求深绿侧辫、紫蓝眼和明显面部雀斑，图中脸部光滑无雀斑，人物因此更像通用绿发和风少女。
+Doubao,doubao_甘露寺蜜璃(Mitsuri_Kanroji).png,65,Tier 2,甘露寺蜜璃(Mitsuri Kanroji),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,软刃刀错误,要求日轮刀像粉色丝带般柔软弯曲，图中手持主体仍是普通直刃刀，飘带与刀身分离，武器物理属性没有成立。
+Doubao,doubao_甚平_(Jinbe).png,74,Tier 2,甚平 (Jinbe),P1 Character Identity Error,P7 Attribute Misbinding,鱼身过度化,要求鲸鲨鱼人保持魁梧人形，图中变成穿浴衣的直立完整鲨鱼，鱼类属性覆盖人体结构，角色身份偏离。
+Doubao,doubao_用武士刀切开巨大悬浮披萨的六平千寻.png,190,Tier 4,用武士刀切开巨大悬浮披萨的六平千寻,P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,黑火条件错,要求武士刀燃烧黑火并伴随金鱼特效，在太空切开失重披萨；图中火焰为橙色且缺少太空环境，组合条件未完整实现。
+Doubao,doubao_真希波_(MariMakinami).png,116,Tier 2,真希波 (MariMakinami),P4 Costume / Prop Error,P2 Signature Feature Missing,半框镜错误,要求红色仅上半框眼镜，图中生成完整粗红框眼镜，特殊半框结构被常规镜架替代。
+Doubao,doubao_碎蜂_(Soi-Fon).png,46,Tier 2,碎蜂 (Soi-Fon),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,蜂刺戴反手,要求金色蜂刺指套佩在右手中指，图中武器出现在人物左手侧，标志道具的左右绑定错误。
+Doubao,doubao_神田优_(YuKanda).png,174,Tier 3,神田优 (YuKanda),P10 Character Feature Degradation,P9 Character Genericization,神田脸泛化,要求深蓝及腰高马尾、十字绣黑风衣和修长武士刀共同形成神田优，图中装备大致齐全，但脸与气质仍是通用冷面剑士。
+Doubao,doubao_禅院真希_(MakiZen'in).png,50,Tier 2,禅院真希 (MakiZen'in),P4 Costume / Prop Error,P2 Signature Feature Missing,半框镜错误,要求下半框方片眼镜，图中生成完整矩形镜框；红色长柄武器存在，但关键非对称镜架结构未还原。
+Doubao,doubao_秋山澪_(MioAkiyama).png,120,Tier 2,秋山澪 (MioAkiyama),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,贝斯持向反,要求以左撇子姿势斜抱四弦贝斯，图中琴颈朝向及双手分工采用常规右手持琴布局，左右属性被颠倒。
+Doubao,doubao_空条徐伦_(JolyneCujoh).png,128,Tier 2,空条徐伦 (JolyneCujoh),P7 Attribute Misbinding,P6 Spatial / Left-Right Error,刺青变衣纹,要求亮粉蝴蝶是胸口皮肤刺青，图中蝴蝶落在黑色上衣中央，皮肤属性被串到衣物上。
+Doubao,doubao_穿宇航服拿着光剑的油女志乃.png,181,Tier 4,穿宇航服拿着光剑的油女志乃,P12 Multi-concept Fusion Failure,P2 Signature Feature Missing,角色吞没,要求油女志乃的小圆墨镜身份与重型宇航服、蓝光剑同时成立，图中头盔完全遮脸，只剩通用宇航员，原角色被强设定覆盖。
+Doubao,doubao_穿着现代职场西装做PPT汇报的芙莉莲.png,185,Tier 4,穿着现代职场西装做PPT汇报的芙莉莲,P1 Character Identity Error,P12 Multi-concept Fusion Failure,芙莉莲消失,要求白色双马尾、精灵长耳的芙莉莲穿西装汇报，图中却是黑发人类男性讲师，办公室条件完全吞没角色身份。
+Doubao,doubao_纳甘夫人_(LadyNagant).png,89,Tier 2,纳甘夫人 (LadyNagant),P7 Attribute Misbinding,P8 Structural / Element Fusion Error,枪臂串位,要求右臂本身异化成狙击枪管，图中枪械作为独立武器被另一手持握，另一臂反而变成紫色怪爪，能力属性绑定错对象。
+Doubao,doubao_结城明日奈(Asuna_Yuuki).png,134,Tier 2,结城明日奈(Asuna Yuuki),P4 Costume / Prop Error,,细剑缺失,要求右手持极细长银剑“闪烁之光”，图中双手均未形成可辨长剑，只保留白红骑士服，标志武器缺失。
+Doubao,doubao_罗伊·马斯坦(Roy_Mustang).png,92,Tier 2,罗伊·马斯坦(Roy Mustang),P8 Structural / Element Fusion Error,P6 Spatial / Left-Right Error,响指手势错,要求戴炼金阵白手套并做打响指动作，图中双手只是相互指示，拇指与中指没有形成响指接触关系。
+Doubao,doubao_胀相_(Choso).png,53,Tier 2,胀相 (Choso),P1 Character Identity Error,P4 Costume / Prop Error,角色身份错,要求鼻梁横跨黑色血纹、双马尾炸发与米色高领长袍，图中却生成橙色武道服的黑发格斗男性，胀相身份无法识别。
+Doubao,doubao_艾达_(Eida).png,141,Tier 3,艾达 (Eida),P2 Signature Feature Missing,P4 Costume / Prop Error,星眼缺失,要求半月状星眼瞳孔，图中双眼为普通蓝色动漫瞳，且露脐短裙被改成运动上衣，核心眼部特征缺失。
+Doubao,doubao_芥川龙之介(RyunosukeAkutagawa).png,98,Tier 2,芥川龙之介(RyunosukeAkutagawa),P4 Costume / Prop Error,P2 Signature Feature Missing,罗生门缺失,要求黑长外套下摆异化成黑红锯齿多头异兽，图中只是普通黑色和服，罗生门能力结构和白渐变发尾均未生成。
+Doubao,doubao_虎杖悠仁_(YujiItadori).png,31,Tier 1,虎杖悠仁 (YujiItadori),P2 Signature Feature Missing,,眼下切痕缺,要求双眼下方各有细小横向闭合切痕，图中眼下皮肤平滑无标记，其他发色与高领制服虽在仍触发身份红线。
+Doubao,doubao_蝴蝶忍_(ShinobuKocho).png,60,Tier 2,蝴蝶忍 (ShinobuKocho),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,特制刀错误,要求日轮刀只有刀尖具刃，图中为完整常规刀刃，细长特殊武器的几何结构没有保留。
+Doubao,doubao_蝶野雏_(HinaChono).png,164,Tier 3,蝶野雏 (HinaChono),P9 Character Genericization,P10 Character Feature Degradation,体操脸泛化,要求栗色短卷发及角色化运动气质，图中虽有紧身服与长丝带，却成为标准体操选手模板，蝶野雏辨识度不足。
+Doubao,doubao_西索_(HisokaMorow).png,101,Tier 2,西索 (HisokaMorow),P2 Signature Feature Missing,P6 Spatial / Left-Right Error,水滴脸绘缺,要求左脸五角星、右脸水滴同时存在，图中面部只保留单侧星形标记，另一侧水滴缺失，非对称脸绘不完整。
+Doubao,doubao_赛伯星人(Serpoians).png,152,Tier 3,赛伯星人(Serpoians),P10 Character Feature Degradation,P9 Character Genericization,倒梯眼弱化,要求巨大无瞳倒梯形眼，图中被平滑成常见椭圆外星眼，赛伯星人的特殊眼部几何明显退化。
+Doubao,doubao_赤木茂_(AkagiShigeru).png,167,Tier 3,赤木茂 (AkagiShigeru),P4 Costume / Prop Error,P10 Character Feature Degradation,麻将牌缺失,要求手捏麻将牌并保持尖锥下巴与大长鼻，图中手部没有麻将牌，福本式脸型也被适度修正。
+Doubao,doubao_越前龙马(RyomaEchizen).png,13,Tier 1,越前龙马(RyomaEchizen),P4 Costume / Prop Error,P2 Signature Feature Missing,帽徽缺失,要求白色网球帽正面有清晰F标志，图中帽徽不可辨；虽有红拍与蓝白队服，标志装备仍不完整。
+Doubao,doubao_路德_(Rudo).png,157,Tier 3,路德 (Rudo),P9 Character Genericization,P10 Character Feature Degradation,废土风柔化,要求重污渍、左脸黑斑与工业涂鸦视觉语言，图中变成干净的标准爆豪式废土战士，角色脏乱质感和画风被柔化。
+Doubao,doubao_路飞_(Monkey_D.Luffy).png,2,Tier 1,路飞 (Monkey D.Luffy),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,眼疤左右错,要求缝针疤位于人物左眼下方，图中疤痕出现在右眼侧，草帽与红背心虽在但关键非对称标记镜像。
+Doubao,doubao_轰焦冻_(ShotoTodoroki).png,82,Tier 2,轰焦冻 (ShotoTodoroki),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,红白左右反,要求人物左侧红发烧伤、右侧白发，图中红发与烧伤落在人物右侧，左右颜色和伤疤绑定整体镜像。
+Doubao,doubao_辛美尔_(Himmel).png,148,Tier 3,辛美尔 (Himmel),P2 Signature Feature Missing,P10 Character Feature Degradation,泪痣缺失,要求右眼下有明确泪痣，图中眼下没有可辨黑痣；蓝发白披风虽在，辛美尔的细小身份点未保留。
+Doubao,doubao_迪奥·布兰度(DIO).png,126,Tier 2,迪奥·布兰度(DIO),P2 Signature Feature Missing,P10 Character Feature Degradation,耳痣缺失,要求左耳三颗黑痣成直线，图中耳侧没有该标记；黄色造型和后弯姿势存在，但身份细节缺失。
+Doubao,doubao_迪蒙_(Daemon).png,142,Tier 3,迪蒙 (Daemon),P2 Signature Feature Missing,P9 Character Genericization,月相瞳缺失,要求半月相几何瞳孔与儿童感，图中眼睛是普通动漫瞳并被画成通用白发兜帽孩子，关键眼形缺失。
+Doubao,doubao_酷拉皮卡(Kurapika).png,102,Tier 2,酷拉皮卡(Kurapika),P5 Quantity Error,P4 Costume / Prop Error,五链不足,要求右手五指各戴独立银戒并连接锁链，图中只见少量戒饰且没有五条清晰链路，数量和道具结构均不足。
+Doubao,doubao_银卡_(Ginka).png,165,Tier 3,银卡 (Ginka),P9 Character Genericization,P10 Character Feature Degradation,雪人模板化,要求银卡的圆球式白色身体与极简黑圆眼，图中更像戴礼帽的通用软体雪人，角色特定比例被改成常见吉祥物。
+Doubao,doubao_长出金色及地超级赛亚人长发的琦玉.png,187,Tier 4,长出金色及地超级赛亚人长发的琦玉,P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,及地长发缺,要求金色倒竖长发一直延伸至地面，图中发束只向头顶上方爆发，长度条件未满足；琦玉脸与超级赛亚人概念融合也显生硬。
+Doubao,doubao_间桐樱_(SakuraMatou).png,125,Tier 2,间桐樱 (SakuraMatou),P2 Signature Feature Missing,P4 Costume / Prop Error,细发带错,要求左侧鬓角系亮紫红极细发带，图中变成硬质红色发卡，配饰形态与贴脸发束关系均不符合。
+Doubao,doubao_阿里巴巴(Alibaba_Saluja).png,171,Tier 3,阿里巴巴(Alibaba Saluja),P7 Attribute Misbinding,P10 Character Feature Degradation,呆毛变长发,要求只有一根金黄呆毛高翘且极长，图中把长度扩散到整头披肩长发，单根特征被错误绑定为整体发型。
+Doubao,doubao_香克斯_(Shanks).png,78,Tier 2,香克斯 (Shanks),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,眼疤左右错,要求三道爪痕位于人物左眼眶，图中爪痕落在人物右眼侧，关键面部伤疤发生左右镜像。
+Doubao,doubao_驾驶赛博朋克霓虹摩托车的灶门祢豆子.png,183,Tier 4,驾驶赛博朋克霓虹摩托车的灶门祢豆子,P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,悬浮车不足,要求粉绿发光、悬浮且无辐条的重机车，图中仍呈现有明确接地轮胎的常规摩托结构，悬浮条件表达不足。
+Doubao,doubao_高仓健_(Jiji).png,151,Tier 3,高仓健 (Jiji),P9 Character Genericization,P10 Character Feature Degradation,角色泛化,要求阳光高大、微黑皮肤并带变身全白眼的Jiji，图中虽有白眼与肤色，却成为通用写实男性，原作夸张气质不足。
+Doubao,doubao_鬼舞辻无惨(MuzanKibutsuji).png,66,Tier 2,鬼舞辻无惨(MuzanKibutsuji),P2 Signature Feature Missing,P10 Character Feature Degradation,尖甲缺失,要求苍白双手具有尖锐锋利指甲，图中手指是普通圆钝形，红竖瞳和正装虽在，吸血鬼身体标志仍缺失。
+Doubao,doubao_麦野沈利(Shizuri_Mugino).png,90,Tier 2,麦野沈利(Shizuri Mugino),P6 Spatial / Left-Right Error,P8 Structural / Element Fusion Error,光束起点错,要求高亮绿光从掌心准确射出，图中多条光线在身体周围交叉并部分悬空，能量起点与手掌没有稳定对齐。
+Gemini,gemini_七海建人_(KentoNanami).png,49,Tier 2,七海建人 (KentoNanami),P4 Costume / Prop Error,P7 Attribute Misbinding,钝刀绑带缺,要求手持绷带缠绕的钝刀，图中为裸露金属刀具，包裹材质完全缺失；护目镜也被画成普通有框眼镜。
+Gemini,gemini_乌尔奇奥拉(Ulquiorra_Cifer).png,45,Tier 2,乌尔奇奥拉(Ulquiorra Cifer),P7 Attribute Misbinding,P2 Signature Feature Missing,骨面罩错位,要求白色骨质面具只位于头部左侧并保留黑色泪痕，图中骨质结构扩成整头双角兜帽，局部面具属性被错误扩大。
+Gemini,gemini_亚连·沃克_(AllenWalker).png,173,Tier 3,亚连·沃克 (AllenWalker),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,星疤左右错,要求红色五角星疤痕贯穿人物左眼，图中星疤落在右眼侧，关键非对称面部标记发生镜像。
+Gemini,gemini_伊藤开司_(KaijiItou).png,168,Tier 3,伊藤开司 (KaijiItou),P9 Character Genericization,P10 Character Feature Degradation,福本脸美化,要求极长尖鼻、尖下巴、左脸旧疤及强烈恐惧画风，图中变成比例常规的黑发青年，福本式极端脸型被美化抹平。
+Gemini,gemini_伏黑惠_(MegumiFushiguro).png,32,Tier 1,伏黑惠 (MegumiFushiguro),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,制服形态错,要求黑色立领咒术高专制服，图中被扩展成大幅外翻长袍；结印手势也显得僵硬，服装与动作均偏离。
+Gemini,gemini_休塔尔克_(Stark).png,147,Tier 3,休塔尔克 (Stark),P2 Signature Feature Missing,P10 Character Feature Degradation,白刘海缺失,要求深红短发中保留一束白刘海并有左眼下疤痕，图中发色完全统一且眼下无疤，核心身份点缺失。
+Gemini,gemini_佩可(Peco-Yutaka).png,170,Tier 3,佩可(Peco/Yutaka),P9 Character Genericization,P10 Character Feature Degradation,画风模板化,目标应保留狗啃短发、狂放线条和超广角运动透视，图中只是标准蓝色球服少年立绘，汤浅式视觉语言完全被平均化。
+Gemini,gemini_六平千寻(ChihiroRokuhira).png,161,Tier 3,六平千寻(ChihiroRokuhira),P2 Signature Feature Missing,P10 Character Feature Degradation,左脸疤缺失,要求左脸横向深伤疤和死鱼眼，图中面部平滑且神情普通；虽有黑衣刀效，角色身份仍缺少关键脸部证据。
+Gemini,gemini_冯·霍恩海姆(VanHohenheim).png,137,Tier 2,冯·霍恩海姆(VanHohenheim),P10 Character Feature Degradation,P9 Character Genericization,年龄感弱化,要求无框圆眼镜、金色山羊胡与低马尾共同塑造霍恩海姆，图中元素大致在位，但脸被泛化为普通金发绅士，沧桑辨识度不足。
+Gemini,gemini_切岛锐儿郎(Eijiro_Kirishima).png,86,Tier 2,切岛锐儿郎(Eijiro Kirishima),P2 Signature Feature Missing,P4 Costume / Prop Error,眉疤缺失,要求右眉眼细小疤痕，图中眉眼区域无可辨伤痕；齿轮肩甲虽有，却不能弥补核心面部标志遗漏。
+Gemini,gemini_南云_(Nagumo).png,160,Tier 3,南云 (Nagumo),P6 Spatial / Left-Right Error,P8 Structural / Element Fusion Error,军刀悬空,要求人物操持六形态巨型瑞士军刀，图中多组刀片在背后放射状悬浮，未与手部或主体武器形成合理连接。
+Gemini,gemini_卡卡西_(KakashiHatake).png,111,Tier 2,卡卡西 (KakashiHatake),P2 Signature Feature Missing,P6 Spatial / Left-Right Error,眼疤缺失,要求左眼被护额遮挡且有纵向刀疤，图中护额与面罩存在，但眼周纵向疤痕不可辨，定位特征不完整。
+Gemini,gemini_卡塔库栗(CharlotteKatakuri).png,80,Tier 2,卡塔库栗(CharlotteKatakuri),P2 Signature Feature Missing,P4 Costume / Prop Error,獠牙图腾缺,要求围巾下露出尖锐交错獠牙并在左胸臂有粉色骷髅图腾，图中两项均未清楚生成，只剩魁梧红领男性。
+Gemini,gemini_卡塔莉娜(Katarina_Claes).png,172,Tier 3,卡塔莉娜(Katarina Claes),P7 Attribute Misbinding,P8 Structural / Element Fusion Error,裙撑骨骼化,要求巨型骨架裙撑支撑长裙，图中把结构词误译成外露金属牢笼式裙架，裙面与支撑件关系生硬。
+Gemini,gemini_卯之花烈_(RetsuUnohana).png,178,Tier 3,卯之花烈 (RetsuUnohana),P3 Color Error,P10 Character Feature Degradation,发色错误,要求黑色长发在胸前编成粗辫，图中头发呈棕色且辫体偏细，卯之花的深沉气质也被柔化。
+Gemini,gemini_厄卡伦_(Okarun).png,150,Tier 3,厄卡伦 (Okarun),P1 Character Identity Error,P12 Multi-concept Fusion Failure,变身身份错,要求普通黑发眼镜状态与白发黑白面具状态保有同一角色身份，图中变成白发赛博装甲男性，厄卡伦特征无法识别。
+Gemini,gemini_原创设定：_岩浆主厨_(Magma-Chef).png,200,Tier 4,"原创设定：""岩浆主厨""(Magma-Chef)",P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,厨师设定缺,要求黑曜石厨师围裙、液态岩浆双手及把火球抛入中式炒锅，图中是黑衣格斗者踢向火锅，厨师身份和岩浆双手均缺失。
+Gemini,gemini_原创设定：_时空怪盗_(Chrono-Thief).png,199,Tier 4,"原创设定：""时空怪盗""(Chrono-Thief)",P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,怪盗条件弱,要求机械表盘单片眼镜和能扭曲空气的手杖，图中虽布满钟表，但单片镜与明确的空间扭曲顶端未形成，只像钟表法师。
+Gemini,gemini_原创设定：_空之骑士_(Aero-Knight).png,194,Tier 4,"原创设定：""空之骑士""(Aero-Knight)",P11 Prompt Condition Omission,P4 Costume / Prop Error,闪电枪错误,要求尖锐曲折的金色闪电长枪，图中只持普通银剑；彩玻璃翅膀和银甲存在，但关键武器条件被替换。
+Gemini,gemini_原创设定：_虚空女祭司__(VoidPriestess).png,195,Tier 4,"原创设定：""虚空女祭司"" (VoidPriestess)",P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,魔导书缺失,要求铁链紧锁暗红魔导书，图中只有黑色光环与暗物质裙袍，书本和锁链完全缺失，复杂设定未全覆盖。
+Gemini,gemini_古露娜_(Glüna).png,166,Tier 3,古露娜 (Glüna),P9 Character Genericization,P10 Character Feature Degradation,白发少女化,要求银白微荧光蓬松发、深蓝眼与毛绒边蓝大衣，图中虽有配色，却成为标准萌系冬装少女，角色脸和毛绒光学质感不足。
+Gemini,gemini_可可_(Coco).png,155,Tier 3,可可 (Coco),P9 Character Genericization,P10 Character Feature Degradation,插画风丢失,要求折叠尖端宽沿帽并保留欧洲古典插画笔触，图中被画成常规日漫金发女巫，特殊帽体和原作视觉语言被模板化。
+Gemini,gemini_司波达也(Tatsuya_Shiba).png,140,Tier 2,司波达也(Tatsuya Shiba),P4 Costume / Prop Error,P9 Character Genericization,八芒星缺,要求第一高中制服领口有八芒星徽章，图中是普通白西装且胸前为圆形泛化标志，指定制服体系没有还原。
+Gemini,gemini_嘴平伊之助(InosukeHashibira).png,58,Tier 2,嘴平伊之助(InosukeHashibira),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,双刀形态错,要求两把不规则锯齿长刀，图中武器更像平滑弯钩短刃，锯齿轮廓与刀身长度均错误。
+Gemini,gemini_在演唱会舞台上弹奏电吉他的罗罗诺亚·索隆.png,186,Tier 4,在演唱会舞台上弹奏电吉他的罗罗诺亚·索隆,P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,咬拨片缺失,要求索隆嘴咬绿色塑料拨片并弹奏带刺电吉他，图中吉他和舞台彩绘存在，但嘴部没有拨片，动作映射条件不完整。
+Gemini,gemini_坂本_(Sakamoto).png,139,Tier 2,坂本 (Sakamoto),P2 Signature Feature Missing,,泪痣缺失,要求右眼下有明确泪痣，图中黑框眼镜、黑发和制服存在，但眼下无可辨黑痣，面部身份点缺失。
+Gemini,gemini_坂本太郎_(TaroSakamoto).png,158,Tier 3,坂本太郎 (TaroSakamoto),P9 Character Genericization,P10 Character Feature Degradation,胖厨模板化,要求坂本太郎的两撇小胡子、细框眼镜和极简漫画脸，图中被处理成通用胖厨师立绘，角色神态与动作反差不足。
+Gemini,gemini_坂田银时(Gintoki_Sakata).png,14,Tier 1,坂田银时(Gintoki Sakata),P4 Costume / Prop Error,P6 Spatial / Left-Right Error,和服穿法错,要求白蓝云纹和服只穿一半并呈非对称结构，图中和服被完整规整穿着，标志性半脱穿法没有体现。
+Gemini,gemini_壬氏_(Jinshi).png,144,Tier 3,壬氏 (Jinshi),P10 Character Feature Degradation,P9 Character Genericization,男性骨相弱,目标是兼具男性骨相与阴柔绝美的壬氏，图中成为标准紫发宫廷女性，跨性别骨相特征被模板化。
+Gemini,gemini_夜斗_(Yato).png,138,Tier 2,夜斗 (Yato),P4 Costume / Prop Error,P10 Character Feature Degradation,旧毛巾泛化,要求脖子死死系着白色旧毛巾，图中只是松散垂挂的洁白围巾，材质、系法和生活化磨损均被美化。
+Gemini,gemini_奇弗雷_(Qifrey).png,156,Tier 3,奇弗雷 (Qifrey),P2 Signature Feature Missing,P6 Spatial / Left-Right Error,单片镜缺失,要求银发单侧遮眼并在左眼佩单片眼镜，图中双眼均露出且没有镜片，非对称面部结构完全缺失。
+Gemini,gemini_奇犽_(KilluaZoldyck).png,103,Tier 2,奇犽 (KilluaZoldyck),P4 Costume / Prop Error,P7 Attribute Misbinding,叠穿结构错,要求深蓝高领长袖在内、白色短袖V领在外，图中只剩深色紧身战斗服，反向叠穿关系没有生成。
+Gemini,gemini_奈良鹿丸(ShikamaruNara).png,112,Tier 2,奈良鹿丸(ShikamaruNara),P2 Signature Feature Missing,P10 Character Feature Degradation,耳环网衣缺,要求微小银耳环及领口露出网状内衣，图中耳侧和领口均没有这些细节，只保留发型与绿色马甲。
+Gemini,gemini_妮可·罗宾_(NicoRobin).png,71,Tier 2,妮可·罗宾 (NicoRobin),P8 Structural / Element Fusion Error,P5 Quantity Error,多手边界糊,要求虚空生成的多只手臂彼此独立，图中额外手臂以半透明花瓣状残影叠在躯干周围，数量与肢体边界难以辨认。
+Gemini,gemini_孙悟空_(Goku).png,4,Tier 1,孙悟空 (Goku),P4 Costume / Prop Error,P10 Character Feature Degradation,胸徽变形,要求左胸圆形汉字徽章清晰稳定，图中徽章文字被简化成不可靠符号，经典身份标志没有准确重构。
+Gemini,gemini_富冈义勇_(GiyuTomioka).png,62,Tier 2,富冈义勇 (GiyuTomioka),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,羽织左右反,要求人物左侧几何方块、右侧纯红羽织，图中两侧图案镜像互换，非对称服装绑定错误。
+Gemini,gemini_尼可_(NicoVorgeil).png,179,Tier 3,尼可 (NicoVorgeil),P10 Character Feature Degradation,P9 Character Genericization,尼可脸泛化,要求黑白参差发、厚重反光圆镜及多个微型黑球形成尼可身份，图中元素大致齐全，但被处理成通用赛博少年，长尾角色辨识度不足。
+Gemini,gemini_山治_(Sanji).png,110,Tier 2,山治 (Sanji),P2 Signature Feature Missing,P10 Character Feature Degradation,卷眉香烟缺,要求蚊香状卷眉并斜叼带火星香烟，图中眉形与香烟均不清楚，只保留金发黑西装和踢击火焰。
+Gemini,gemini_布鲁克_(Brook).png,73,Tier 2,布鲁克 (Brook),P10 Character Feature Degradation,P9 Character Genericization,骷髅模板化,要求布鲁克的极瘦白骨解剖与独特绅士气质，图中更像通用爆炸头骷髅西装客，骨架比例与角色辨识度不足。
+Gemini,gemini_干柿鬼鲛(KisameHoshigaki).png,43,Tier 2,干柿鬼鲛(KisameHoshigaki),P2 Signature Feature Missing,P10 Character Feature Degradation,鳃裂缺失,要求眼下有明确鲨鱼鳃裂纹，图中青蓝皮肤、蓝发和鲛肌均在，但面颊没有可辨鳃裂，动物化面部特征缺失。
+Gemini,gemini_弥海砂_(MisaAmane).png,118,Tier 2,弥海砂 (MisaAmane),P8 Structural / Element Fusion Error,P5 Quantity Error,链饰粘连,要求十字戒指、锁链和双手各自清楚，图中密集链饰堆在胸前手指周围，多个小件互相粘连、数量难以辨认。
+Gemini,gemini_悲鸣屿行冥(GyomeiHimejima).png,64,Tier 2,悲鸣屿行冥(GyomeiHimejima),P2 Signature Feature Missing,P4 Costume / Prop Error,盲眼泪痕缺,要求全白盲眼持续流泪并有横贯额头伤疤，图中这些面部特征均不清；虽有铁球阔斧，身份红线仍未满足。
+Gemini,gemini_成振宇_(SungJinwoo).png,153,Tier 3,成振宇 (SungJinwoo),P10 Character Feature Degradation,P9 Character Genericization,条漫风退化,要求锋利韩系条漫画风和蓝紫发光眼，图中只有黑衣紫色粒子氛围，脸与眼睛被一般化为常见暗黑男主。
+Gemini,gemini_战场原黑仪(HitagiSenjougahara).png,121,Tier 2,战场原黑仪(HitagiSenjougahara),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,校服文具错,要求紫粉直筒高中校服并持打开的订书机或美工刀，图中变成紫色职业套装，手中物件也像同形金属夹片，服装与文具均不准。
+Gemini,gemini_斯派克_(SpikeSpiegel).png,129,Tier 2,斯派克 (SpikeSpiegel),P2 Signature Feature Missing,P10 Character Feature Degradation,香烟义眼缺,要求右眼呈人工义眼锐利感并斜叼细长香烟，图中两项均未出现，角色被压缩为绿卷发蓝西装的普通男性。
+Gemini,gemini_日向宁次_(NejiHyuga).png,42,Tier 2,日向宁次 (NejiHyuga),P4 Costume / Prop Error,P2 Signature Feature Missing,额带类型错,要求额头缠绕素色绷带，图中改成有金属标志的忍者护额，头部道具类型错误。
+Gemini,gemini_星野爱_(AiHoshino).png,26,Tier 1,星野爱 (AiHoshino),P3 Color Error,P10 Character Feature Degradation,发色错误,要求紫红色长发，图中整体变成高饱和粉红；星瞳与打歌服虽在，但核心发色与角色成熟感偏离。
+Gemini,gemini_朝仓新_(ShinAsakura).png,159,Tier 3,朝仓新 (ShinAsakura),P2 Signature Feature Missing,P10 Character Feature Degradation,耳机缺失,要求太阳穴有微型耳机设备，图中耳侧无装置，只呈现白衬衫领带的普通金发青年。
+Gemini,gemini_本条二亚_(NiaHonjou).png,104,Tier 2,本条二亚 (NiaHonjou),P2 Signature Feature Missing,P4 Costume / Prop Error,准星瞳缺失,要求右眼十字准星瞳孔并配灰白双马尾，图中双眼为普通瞳且头发未形成双马尾，修女机甲只保留表面服装。
+Gemini,gemini_桐谷和人_(Kirito).png,29,Tier 1,桐谷和人 (Kirito),P5 Quantity Error,P4 Costume / Prop Error,双剑不足,要求背后两把剑呈X形交叉，图中只见一把背剑和一件手持异物，双剑数量及交叉布局均未成立。
+Gemini,gemini_樱木花道(HanamichiSakuragi).png,12,Tier 1,樱木花道(HanamichiSakuragi),P4 Costume / Prop Error,P7 Attribute Misbinding,队名字样错,要求红色10号湘北篮球背心，图中号码为10但胸前队名变成其他汉字，服装标志与球队身份绑定错误。
+Gemini,gemini_正在检修发光量子计算机终端的猫猫.png,188,Tier 4,正在检修发光量子计算机终端的猫猫,P1 Character Identity Error,P12 Multi-concept Fusion Failure,角色被猫化,要求保留猫猫的深绿发、雀斑脸并穿油污防护服检修终端，图中被字面化成猫耳装甲工程师，原角色身份被赛博设定吞没。
+Gemini,gemini_死柄木吊(TomuraShigaraki).png,84,Tier 2,死柄木吊(TomuraShigaraki),P8 Structural / Element Fusion Error,P5 Quantity Error,断手粘连,要求大量苍白断手独立抓握全身，图中多只手掌直接贴覆并穿入躯干衣物，手指与身体边界出现粘连。
+Gemini,gemini_油女志乃_(ShinoAburame).png,41,Tier 2,油女志乃 (ShinoAburame),P8 Structural / Element Fusion Error,P5 Quantity Error,虫群噪点化,要求细小黑色寄坏虫群保持可辨群聚，图中昆虫退化成围绕身体的黑色像素碎点，元素边界噪点化。
+Gemini,gemini_涅茧利_(MayuriKurotsuchi).png,47,Tier 2,涅茧利 (MayuriKurotsuchi),P7 Attribute Misbinding,P10 Character Feature Degradation,脸绘变面具,要求黑白骷髅图案是贴合面部的彩绘，图中被生成成立体骷髅头罩，平面妆容属性错误转化为独立面具。
+Gemini,gemini_渡我被身子(Himiko_Toga).png,85,Tier 2,渡我被身子(Himiko Toga),P8 Structural / Element Fusion Error,P5 Quantity Error,导管粘连,要求多根半透明导管独立挂在毛衣外，图中管线在手臂、躯干和注射器间缠成一团，多个配件边界不清。
+Gemini,gemini_熊猫_(Panda).png,52,Tier 2,熊猫 (Panda),P9 Character Genericization,P10 Character Feature Degradation,熊猫拳手化,要求保持咒术回战熊猫的特定人形比例与袖章，图中被处理成通用肌肉熊猫拳击手，角色脸和作品风格不足。
+Gemini,gemini_爱德华·纽盖特(Whitebeard).png,79,Tier 2,爱德华·纽盖特(Whitebeard),P4 Costume / Prop Error,P2 Signature Feature Missing,头巾花纹缺,要求黑色斑点海贼头巾，图中头部覆盖物没有可辨黑色斑点；月牙胡和薙刀虽在，标志服装细节仍缺失。
+Gemini,gemini_爱德华·艾尔利克(Edward_Elric).png,11,Tier 1,爱德华·艾尔利克(Edward Elric),P4 Costume / Prop Error,P7 Attribute Misbinding,炼金符号错,要求红色长风衣背部有明确炼金符号，图中背后仅为泛化金色装饰，符号身份和图案语义未准确保持。
+Gemini,gemini_特拉法尔加·罗(Trafalgar_Law).png,75,Tier 2,特拉法尔加·罗(Trafalgar Law),P2 Signature Feature Missing,P4 Costume / Prop Error,胡须缺失,要求下颚与上唇有细长胡须，图中面部干净无胡须；帽子、纹身和长刀大致存在，但脸部身份点缺失。
+Gemini,gemini_狗卷棘_(TogeInumaki).png,51,Tier 2,狗卷棘 (TogeInumaki),P2 Signature Feature Missing,P6 Spatial / Left-Right Error,蛇目纹缺失,要求两侧脸颊有黑色蛇目纹章，图中面颊均无可辨图案，高领遮挡关系也没有留下该局部标志。
+Gemini,gemini_狛村左阵_(SajinKomamura).png,48,Tier 2,狛村左阵 (SajinKomamura),P10 Character Feature Degradation,P9 Character Genericization,狼脸写实化,要求拟人棕狼头与死神队长造型平衡，图中狼头被画得过于写实兽化，原角色面部比例和Furry平衡明显退化。
+Gemini,gemini_猗窝座_(Akaza).png,67,Tier 2,猗窝座 (Akaza),P2 Signature Feature Missing,P10 Character Feature Degradation,血丝金瞳缺,要求发亮且带血丝的金色瞳孔，图中眼睛没有呈现该高亮血丝结构，虽有刺青与粉发仍缺核心眼部特征。
+Gemini,gemini_猪股大喜_(TaikiInomata).png,162,Tier 3,猪股大喜 (TaikiInomata),P9 Character Genericization,P10 Character Feature Degradation,运动脸泛化,目标依靠清爽短发、校队服与羽毛球装备区分猪股大喜，图中成为无特定脸部特征的通用羽毛球少年，长尾身份保持不足。
+Gemini,gemini_猫猫_(Maomao).png,143,Tier 3,猫猫 (Maomao),P2 Signature Feature Missing,P10 Character Feature Degradation,雀斑缺失,要求深绿侧辫、紫蓝眼和明显雀斑，图中面部完全光滑，人物更像普通绿发和风少女，药师身份也被弱化。
+Gemini,gemini_甘露寺蜜璃(Mitsuri_Kanroji).png,65,Tier 2,甘露寺蜜璃(Mitsuri Kanroji),P2 Signature Feature Missing,P4 Costume / Prop Error,泪痣缺失,要求双眼下方有泪痣且日轮刀呈柔软粉色丝带，图中泪痣不可辨，刀具仍以普通短柄配飘带表现。
+Gemini,gemini_用武士刀切开巨大悬浮披萨的六平千寻.png,190,Tier 4,用武士刀切开巨大悬浮披萨的六平千寻,P12 Multi-concept Fusion Failure,P1 Character Identity Error,角色吞没,要求六平千寻的左脸刀疤、黑火金鱼刀效与失重披萨并存，图中被重甲武士造型覆盖，原角色面部和服装身份消失。
+Gemini,gemini_真希波_(MariMakinami).png,116,Tier 2,真希波 (MariMakinami),P4 Costume / Prop Error,P2 Signature Feature Missing,半框镜错误,要求红色仅上半框眼镜，图中生成完整粗红框，特殊镜架结构被常规眼镜替代。
+Gemini,gemini_碎蜂_(Soi-Fon).png,46,Tier 2,碎蜂 (Soi-Fon),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,蜂刺戴反手,要求金色蜂刺指套位于右手中指，图中武器出现在人物左手侧，单指武器的左右绑定错误。
+Gemini,gemini_禅院真希_(MakiZen'in).png,50,Tier 2,禅院真希 (MakiZen'in),P4 Costume / Prop Error,P2 Signature Feature Missing,半框镜错误,要求下半框方片眼镜，图中是完整红色矩形框；虽有绿马尾与红柄长兵器，面部配饰结构仍错误。
+Gemini,gemini_秋山澪_(MioAkiyama).png,120,Tier 2,秋山澪 (MioAkiyama),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,贝斯持向反,要求左撇子逆向斜抱四弦贝斯，图中采用常规右手演奏布局，琴颈朝向与双手职责发生左右颠倒。
+Gemini,gemini_穿宇航服拿着光剑的油女志乃.png,181,Tier 4,穿宇航服拿着光剑的油女志乃,P3 Color Error,P2 Signature Feature Missing,光剑颜色错,要求手持蓝色光剑并戴黑色小圆墨镜，图中光剑发绿光且眼镜为普通矩形框，关键道具配色首先错误。
+Gemini,gemini_穿着现代职场西装做PPT汇报的芙莉莲.png,185,Tier 4,穿着现代职场西装做PPT汇报的芙莉莲,P2 Signature Feature Missing,P12 Multi-concept Fusion Failure,双马尾缺失,要求白色双马尾与精灵长耳保留在职场西装造型中，图中白发被处理成长直发，原角色标志发型被办公室设定弱化。
+Gemini,gemini_童磨_(Doma).png,68,Tier 2,童磨 (Doma),P3 Color Error,P2 Signature Feature Missing,发色错误,要求白橡色长发带红斑，图中头发整体变成紫灰色，虽有帽子和金扇，核心发色明显偏离。
+Gemini,gemini_索隆_(RoronoaZoro).png,9,Tier 1,索隆 (RoronoaZoro),P2 Signature Feature Missing,P4 Costume / Prop Error,三耳环缺失,要求左耳有三只金色水滴耳环，图中耳侧无可辨三联耳环；三刀与绿发虽在，身份配饰缺失。
+Gemini,gemini_纳兹_(NatsuDragneel).png,28,Tier 1,纳兹 (NatsuDragneel),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,公会纹反侧,要求红色妖精尾巴纹章位于右臂，图中纹章落在左臂侧，身体标志的位置发生左右镜像。
+Gemini,gemini_绫濑桃_(MomoAyase).png,149,Tier 3,绫濑桃 (MomoAyase),P2 Signature Feature Missing,P10 Character Feature Degradation,大耳环缺失,要求夸张大耳环和涉谷太妹妆造，图中耳部没有大耳环，整体更像普通街头少女，辨识配饰缺失。
+Gemini,gemini_罗伊·马斯坦(Roy_Mustang).png,92,Tier 2,罗伊·马斯坦(Roy Mustang),P8 Structural / Element Fusion Error,P6 Spatial / Left-Right Error,响指手势错,要求双手形成打响指动作，图中手指相互交叠成准备手势，拇指与中指没有可靠接触，动作结构不成立。
+Gemini,gemini_胀相_(Choso).png,53,Tier 2,胀相 (Choso),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,鼻纹位置错,要求粗黑血迹横跨鼻梁，图中黑纹分散到眼下与脸颊，横向鼻梁定位关系被破坏。
+Gemini,gemini_艾达_(Eida).png,141,Tier 3,艾达 (Eida),P2 Signature Feature Missing,P9 Character Genericization,星眼缺失,要求半月状星眼瞳孔，图中双眼为普通粉蓝动漫瞳，角色因此退化为通用长发时尚少女。
+Gemini,gemini_芥川龙之介(RyunosukeAkutagawa).png,98,Tier 2,芥川龙之介(RyunosukeAkutagawa),P4 Costume / Prop Error,P2 Signature Feature Missing,罗生门错形,要求外套下摆异化为黑红锯齿多头异兽，图中只形成黑白飘带状衣摆，异兽结构与发尾白渐变均未准确出现。
+Gemini,gemini_蝴蝶忍_(ShinobuKocho).png,60,Tier 2,蝴蝶忍 (ShinobuKocho),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,特制刀错误,要求日轮刀只有刀尖具刃，图中为普通完整刀刃，武器的细长特殊结构没有保留。
+Gemini,gemini_蝶野雏_(HinaChono).png,164,Tier 3,蝶野雏 (HinaChono),P9 Character Genericization,P10 Character Feature Degradation,体操脸泛化,要求栗色短卷发并保持蝶野雏的角色气质，图中虽有长丝带和体操动作，却成为通用体操少女，身份辨识度不足。
+Gemini,gemini_西索_(HisokaMorow).png,101,Tier 2,西索 (HisokaMorow),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,脸绘错位,要求左脸五角星、右脸水滴，图中两侧面部标记被画成不对应的深色条纹，形状与左右关系同时错误。
+Gemini,gemini_赛伯星人(Serpoians).png,152,Tier 3,赛伯星人(Serpoians),P9 Character Genericization,P10 Character Feature Degradation,异形模板化,要求灰白硅胶皮肤和巨大无瞳倒梯形眼，图中变成黑色流线装甲的常见科幻外星人，复古赛伯星人视觉语言被覆盖。
+Gemini,gemini_赤木茂_(AkagiShigeru).png,167,Tier 3,赤木茂 (AkagiShigeru),P9 Character Genericization,P4 Costume / Prop Error,福本脸消失,要求尖锥下巴、大长鼻并手捏麻将牌，图中是比例正常的银发西装男性且手中无牌，角色被完全美型化。
+Gemini,gemini_越前龙马(RyomaEchizen).png,13,Tier 1,越前龙马(RyomaEchizen),P4 Costume / Prop Error,P3 Color Error,帽徽球拍错,要求白帽印F并手持红色球拍，图中帽徽变成红色R、球拍也不是红色，标志装备同时偏离。
+Gemini,gemini_路德_(Rudo).png,157,Tier 3,路德 (Rudo),P10 Character Feature Degradation,P9 Character Genericization,废土风柔化,要求污渍杂乱发、左脸黑斑及工业涂鸦画风，图中装备虽齐，但整体被清洁成标准废土战士，脏乱视觉语言明显弱化。
+Gemini,gemini_车海印_(ChaHae-In).png,154,Tier 3,车海印 (ChaHae-In),P3 Color Error,P10 Character Feature Degradation,发色错误,要求浅金波波头，图中头发变成银灰色；红披风与重甲也让原本贴身铠甲的角色气质发生偏移。
+Gemini,gemini_轰焦冻_(ShotoTodoroki).png,82,Tier 2,轰焦冻 (ShotoTodoroki),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,红白左右反,要求人物左侧红发烧伤、右侧白发，图中红发和烧伤都落在人物右侧，颜色与伤疤的左右绑定整体镜像。
+Gemini,gemini_辛美尔_(Himmel).png,148,Tier 3,辛美尔 (Himmel),P2 Signature Feature Missing,P10 Character Feature Degradation,泪痣缺失,要求右眼下有明确泪痣，图中眼下无可辨黑痣；白蓝披风和蓝发存在，但细小身份点缺失。
+Gemini,gemini_迪奥·布兰度(DIO).png,126,Tier 2,迪奥·布兰度(DIO),P2 Signature Feature Missing,P10 Character Feature Degradation,耳痣缺失,要求左耳三颗黑痣成直线，图中耳侧没有该标记；黄色服装和夸张姿势虽在，身份细节仍遗漏。
+Gemini,gemini_迪蒙_(Daemon).png,142,Tier 3,迪蒙 (Daemon),P2 Signature Feature Missing,P9 Character Genericization,月相瞳缺失,要求半月相几何瞳孔并保持儿童年龄感，图中为普通动漫眼且人物偏成年，特殊眼形与年龄特征均弱化。
+Gemini,gemini_迪达拉_(Deidara).png,44,Tier 2,迪达拉 (Deidara),P2 Signature Feature Missing,P7 Attribute Misbinding,掌心嘴缺失,要求双手掌心有嘴并在左眼佩瞄准器，图中掌心器官和眼部装置均未出现，反而生成多只普通白鸟。
+Gemini,gemini_酷拉皮卡(Kurapika).png,102,Tier 2,酷拉皮卡(Kurapika),P8 Structural / Element Fusion Error,P5 Quantity Error,五链粘连,要求右手五指各有独立戒指与锁链，图中多条链子在手掌前交织成网，独立五指链路无法辨认。
+Gemini,gemini_金木研_(KenKaneki).png,35,Tier 1,金木研 (KenKaneki),P4 Costume / Prop Error,P10 Character Feature Degradation,面具拉链缺,要求黑色下半脸皮革面具有清晰拉链和牙齿图案，图中只剩怪物齿口造型，拉链结构未生成，面具被泛化。
+Gemini,gemini_银卡_(Ginka).png,165,Tier 3,银卡 (Ginka),P9 Character Genericization,P10 Character Feature Degradation,雪人模板化,要求银卡的圆球式白色身体与极简黑圆眼，图中更像戴礼帽的通用软体雪人，原角色比例与神态被平均化。
+Gemini,gemini_长出金色及地超级赛亚人长发的琦玉.png,187,Tier 4,长出金色及地超级赛亚人长发的琦玉,P12 Multi-concept Fusion Failure,P8 Structural / Element Fusion Error,发体硬融,要求琦玉极简光头五官与及地倒竖金发共存，图中金发像独立光环包围身体而非从头部自然生长，多概念连接生硬。
+Gemini,gemini_间桐樱_(SakuraMatou).png,125,Tier 2,间桐樱 (SakuraMatou),P6 Spatial / Left-Right Error,P4 Costume / Prop Error,发带左右错,要求亮紫红细发带系在人物左侧鬓角，图中发带落在右侧，非对称配饰发生镜像；校服样式也有偏差。
+Gemini,gemini_阿尔托莉雅(Saber).png,123,Tier 2,阿尔托莉雅(Saber),P5 Quantity Error,P4 Costume / Prop Error,双剑多余,要求手持一把隐形剑或金剑，图中左右手各持蓝色与金色两把剑，核心武器数量增加。
+Gemini,gemini_阿里巴巴(Alibaba_Saluja).png,171,Tier 3,阿里巴巴(Alibaba Saluja),P10 Character Feature Degradation,P9 Character Genericization,异域脸泛化,要求高翘极长呆毛、橙金瞳与阿拉伯灯笼裤共同塑造阿里巴巴，图中要素大致存在，但脸与气质仍是通用金发少年。
+Gemini,gemini_霍克斯_(Hawks).png,88,Tier 2,霍克斯 (Hawks),P10 Character Feature Degradation,P3 Color Error,护目镜弱化,要求厚重黄色护目镜，图中镜片趋于普通深色飞行镜，黄色体量感不足，角色被泛化为常见翼人飞行员。
+Gemini,gemini_香克斯_(Shanks).png,78,Tier 2,香克斯 (Shanks),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,眼疤左右错,要求三道爪痕位于人物左眼眶，图中伤疤落在右眼侧，独臂与斗篷虽在但关键面部标记镜像。
+Gemini,gemini_马格纳_(MagnaSwing).png,169,Tier 3,马格纳 (MagnaSwing),P3 Color Error,P2 Signature Feature Missing,发色分区缺,要求黑灰相间的高耸飞机头，图中整个夸张发型近乎纯黑，灰色分区没有保留。
+Gemini,gemini_高仓健_(Jiji).png,151,Tier 3,高仓健 (Jiji),P2 Signature Feature Missing,P10 Character Feature Degradation,白眼状态缺,要求变身后双眼全白并保持微黑皮肤，图中眼睛仍有常规瞳孔与高光，只呈现通用黑发青年。
+Gemini,gemini_鹿野千夏(Chinatsu_Kano).png,163,Tier 3,鹿野千夏(Chinatsu Kano),P9 Character Genericization,P10 Character Feature Degradation,篮球脸泛化,要求黑色过肩直发、白底球衣与写实篮球并保持角色微表情，图中成为通用篮球少女，鹿野千夏辨识度不足。
+Gemini,gemini_麦野沈利(Shizuri_Mugino).png,90,Tier 2,麦野沈利(Shizuri Mugino),P6 Spatial / Left-Right Error,P8 Structural / Element Fusion Error,光束起点错,要求高亮绿色光束从掌心准确射出，图中光束横穿人物身后，手部只有泛光，射线起点未与掌心对齐。
+Gemini,gemini_齐木楠雄_(KusuoSaiki).png,180,Tier 3,齐木楠雄 (KusuoSaiki),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,天线悬空,要求两侧粉色天线装置固定在头顶，图中天线变成漂浮卷曲霓虹符号，与头发没有合理连接。
+Qwen,qwen_七海建人_(KentoNanami).png,49,Tier 2,七海建人 (KentoNanami),P4 Costume / Prop Error,P7 Attribute Misbinding,钝刀绑带缺,要求手持绷带缠绕的钝刀，图中为裸露锋利金属刀，包裹材质和钝刃形态均没有生成。
+Qwen,qwen_东堂葵_(AoiTodo).png,56,Tier 2,东堂葵 (AoiTodo),P2 Signature Feature Missing,,额疤缺失,要求左额头有清晰长疤，图中巨大肌肉、背心和小辫均在，但额头没有可辨伤痕，定位特征缺失。
+Qwen,qwen_乌尔奇奥拉(Ulquiorra_Cifer).png,45,Tier 2,乌尔奇奥拉(Ulquiorra Cifer),P2 Signature Feature Missing,P7 Attribute Misbinding,泪痕缺失,要求苍白脸上有黑色泪痕纹并仅在头部左侧嵌骨面具，图中泪痕缺失，骨质结构也扩成头顶大型兽骨。
+Qwen,qwen_五条悟_(GojoSatoru).png,3,Tier 1,五条悟 (GojoSatoru),P2 Signature Feature Missing,P10 Character Feature Degradation,竖发弱化,要求银白短发明显向上竖立，图中头发柔顺下垂；眼罩和黑制服虽在，标志性发型力度不足。
+Qwen,qwen_亚连·沃克_(AllenWalker).png,173,Tier 3,亚连·沃克 (AllenWalker),P3 Color Error,P6 Spatial / Left-Right Error,利爪颜色错,要求巨大暗红利爪或机械臂，图中异化手臂近乎纯黑，仅有少量红边，核心材质配色明显偏离。
+Qwen,qwen_伊藤开司_(KaijiItou).png,168,Tier 3,伊藤开司 (KaijiItou),P9 Character Genericization,P10 Character Feature Degradation,福本脸美化,要求极长尖鼻、尖下巴、左脸旧疤及恐惧汗液画风，图中变成比例常规的俊朗青年，Kaiji的夸张脸型与焦虑气质被美化。
+Qwen,qwen_伏黑惠_(MegumiFushiguro).png,32,Tier 1,伏黑惠 (MegumiFushiguro),P8 Structural / Element Fusion Error,P6 Spatial / Left-Right Error,结印手势错,要求双手交叉形成稳定结印，图中指尖只拼成三角形，手指交叉关系与指定忍术动作不符。
+Qwen,qwen_休塔尔克_(Stark).png,147,Tier 3,休塔尔克 (Stark),P2 Signature Feature Missing,P10 Character Feature Degradation,白刘海缺失,要求深红短发带突兀白刘海并有左眼下疤痕，图中发色完全统一且眼下无疤，核心身份点缺失。
+Qwen,qwen_佩可(Peco-Yutaka).png,170,Tier 3,佩可(Peco/Yutaka),P9 Character Genericization,P10 Character Feature Degradation,画风模板化,目标应有狗啃短发、狂放线条和超广角运动感，图中成为写实标准乒乓球少年，汤浅式角色比例与笔触完全丢失。
+Qwen,qwen_六平千寻(ChihiroRokuhira).png,161,Tier 3,六平千寻(ChihiroRokuhira),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,刀效位置错,要求水流金鱼特效围绕武士刀，图中特效漂浮在人物身后并与刀身分离，能力元素的空间绑定错误。
+Qwen,qwen_冯·霍恩海姆(VanHohenheim).png,137,Tier 2,冯·霍恩海姆(VanHohenheim),P4 Costume / Prop Error,P2 Signature Feature Missing,眼镜形态错,要求圆形无框眼镜，图中生成细长矩形有框眼镜，面部配饰的形状和附着方式不符合红线。
+Qwen,qwen_切岛锐儿郎(Eijiro_Kirishima).png,86,Tier 2,切岛锐儿郎(Eijiro Kirishima),P4 Costume / Prop Error,P2 Signature Feature Missing,肩甲不完整,要求暴露上半身并配黑色巨大齿轮肩甲，图中只见单侧局部齿轮且另一肩缺失，核心英雄服装结构不完整。
+Qwen,qwen_南云_(Nagumo).png,160,Tier 3,南云 (Nagumo),P5 Quantity Error,P4 Costume / Prop Error,六形态不足,要求六形态巨型瑞士军刀，图中手持装置只有少量可辨刀片且体量偏小，数量和武器形态均不足。
+Qwen,qwen_卡塔库栗(CharlotteKatakuri).png,80,Tier 2,卡塔库栗(CharlotteKatakuri),P2 Signature Feature Missing,P4 Costume / Prop Error,骷髅图腾缺,要求左胸臂有粉色骷髅图腾，图中赤裸胸臂没有该标记；獠牙和毛皮围巾虽在仍缺身份纹样。
+Qwen,qwen_卡塔莉娜(Katarina_Claes).png,172,Tier 3,卡塔莉娜(Katarina Claes),P4 Costume / Prop Error,P10 Character Feature Degradation,裙撑体量缺,要求巨型骨架裙撑形成夸张中世纪轮廓，图中只是常规蓬裙，裙撑尺度和内部结构均未体现。
+Qwen,qwen_卯之花烈_(RetsuUnohana).png,178,Tier 3,卯之花烈 (RetsuUnohana),P10 Character Feature Degradation,P9 Character Genericization,杀气弱化,要求粗黑前置麻花辫与温柔、杀气并存的卯之花气质，图中被处理成普通温柔队长，危险感和特殊神态明显退化。
+Qwen,qwen_厄卡伦_(Okarun).png,150,Tier 3,厄卡伦 (Okarun),P12 Multi-concept Fusion Failure,P4 Costume / Prop Error,双状态硬拼,要求普通黑发眼镜状态与白发黑白面具变身状态清楚解耦，图中将黑白发和眼罩机械地拼到同一张脸，状态融合失败。
+Qwen,qwen_原创设定：_岩浆主厨_(Magma-Chef).png,200,Tier 4,"原创设定：""岩浆主厨""(Magma-Chef)",P6 Spatial / Left-Right Error,P11 Prompt Condition Omission,火球投向错,要求跃起把巨型火球抛入中式炒锅，图中火球悬在身体另一侧、未朝锅内运动，动作对象关系错误。
+Qwen,qwen_原创设定：_时空怪盗_(Chrono-Thief).png,199,Tier 4,"原创设定：""时空怪盗""(Chrono-Thief)",P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,时空道具缺,要求怀表风衣、机械单片镜和空气扭曲手杖同时出现，图中只保留少量钟表装饰，单片镜与扭曲波纹均不清。
+Qwen,qwen_原创设定：_机甲女仆阿尔法_(Mecha-MaidAlpha).png,198,Tier 4,"原创设定：""机甲女仆阿尔法""(Mecha-MaidAlpha)",P12 Multi-concept Fusion Failure,P8 Structural / Element Fusion Error,女仆吞没,要求镀铬片裙保持女仆百褶逻辑并配排气管、发带和电掸，图中重甲覆盖主体服装，女仆裙装与机械部件融合生硬。
+Qwen,qwen_原创设定：_森之狂战士_(Flora-Berserker).png,197,Tier 4,"原创设定：""森之狂战士""(Flora-Berserker)",P6 Spatial / Left-Right Error,P7 Attribute Misbinding,玫瑰位置错,要求血红玫瑰仅覆盖左眼，图中花朵横在面部中央并遮挡双眼，眼罩位置与属性均错误。
+Qwen,qwen_原创设定：_空之骑士_(Aero-Knight).png,194,Tier 4,"原创设定：""空之骑士""(Aero-Knight)",P11 Prompt Condition Omission,P4 Costume / Prop Error,闪电枪缺失,要求手持曲折金色闪电长枪，图中只有翅膀、银甲和零散闪电符号，没有形成可持握长枪。
+Qwen,qwen_原创设定：_虚空女祭司__(VoidPriestess).png,195,Tier 4,"原创设定：""虚空女祭司"" (VoidPriestess)",P7 Attribute Misbinding,P6 Spatial / Left-Right Error,锁链绑错处,要求铁链紧锁暗红魔导书，图中书本由手直接托举，锁链反而缠在腰部，约束对象发生错绑。
+Qwen,qwen_古露娜_(Glüna).png,166,Tier 3,古露娜 (Glüna),P9 Character Genericization,P10 Character Feature Degradation,白发少女化,要求银白微荧光蓬松发与具有物理漫反射的毛绒边大衣，图中成为通用白发蓝衣少女，角色脸与材质特性均被平均化。
+Qwen,qwen_可可_(Coco).png,155,Tier 3,可可 (Coco),P9 Character Genericization,P10 Character Feature Degradation,插画风丢失,要求欧洲古典插画笔触和结构复杂的折尖宽沿帽，图中是标准日漫金发女巫，原作视觉语言与帽体细节被模板化。
+Qwen,qwen_坂本_(Sakamoto).png,139,Tier 2,坂本 (Sakamoto),P1 Character Identity Error,P2 Signature Feature Missing,角色性别错,要求黑发、黑框眼镜和右眼泪痣的男性坂本，图中生成女性学生形象，角色身份首先错误。
+Qwen,qwen_坂本太郎_(TaroSakamoto).png,158,Tier 3,坂本太郎 (TaroSakamoto),P10 Character Feature Degradation,P9 Character Genericization,胖厨模板化,要求坂本太郎的极简漫画脸、圆胖动作反差和两撇小胡子，图中成为通用写实胖厨师，角色风格与动态特质退化。
+Qwen,qwen_基拉·大和_(KiraYamato).png,108,Tier 2,基拉·大和 (KiraYamato),P10 Character Feature Degradation,P9 Character Genericization,高达脸泛化,要求深棕外翘碎发、巨大亮紫瞳与深切愁容，图中外观大致在位但成为通用高达系美少年，细微角色辨识度不足。
+Qwen,qwen_奇弗雷_(Qifrey).png,156,Tier 3,奇弗雷 (Qifrey),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,单片镜戴反,要求单片眼镜位于人物左眼，图中镜片落在右眼侧，非对称面部配饰发生左右镜像。
+Qwen,qwen_奇犽_(KilluaZoldyck).png,103,Tier 2,奇犽 (KilluaZoldyck),P4 Costume / Prop Error,P7 Attribute Misbinding,领口叠穿错,要求白色短袖V领罩在深蓝高领长袖外，图中外层白衣为圆领，反向叠穿的领口几何不准确。
+Qwen,qwen_孙悟空_(Goku).png,4,Tier 1,孙悟空 (Goku),P4 Costume / Prop Error,P10 Character Feature Degradation,胸徽变形,要求左胸圆形汉字徽章清晰稳定，图中符号笔画不可靠，经典服装身份标志未准确重构。
+Qwen,qwen_富冈义勇_(GiyuTomioka).png,62,Tier 2,富冈义勇 (GiyuTomioka),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,羽织左右反,要求人物左侧几何方块、右侧纯红羽织，图中两侧图案镜像互换，非对称服装绑定错误。
+Qwen,qwen_尼可_(NicoVorgeil).png,179,Tier 3,尼可 (NicoVorgeil),P1 Character Identity Error,P9 Character Genericization,角色性别错,要求黑白参差短发、厚重圆眼镜的尼可，图中被塑造成裸肩女性形象，基础角色身份与体态均不符。
+Qwen,qwen_干柿鬼鲛(KisameHoshigaki).png,43,Tier 2,干柿鬼鲛(KisameHoshigaki),P2 Signature Feature Missing,P10 Character Feature Degradation,鳃裂缺失,要求眼下有明确鳃裂纹，图中青蓝皮肤、鳍状发和鲛肌存在，但面颊没有可辨鳃裂，动物化脸部特征缺失。
+Qwen,qwen_平泽唯_(YuiHirasawa).png,119,Tier 2,平泽唯 (YuiHirasawa),P4 Costume / Prop Error,,电吉他缺失,要求斜抱带爆裂纹的高亮电吉他，图中双手空置，只保留校服和发夹，核心道具完全缺失。
+Qwen,qwen_弥海砂_(MisaAmane).png,118,Tier 2,弥海砂 (MisaAmane),P4 Costume / Prop Error,P5 Quantity Error,哥特配饰少,要求锁链项圈、网袜及双手十字戒指形成密集哥特造型，图中配饰被大幅简化，双手戒指数量明显不足。
+Qwen,qwen_悲鸣屿行冥(GyomeiHimejima).png,64,Tier 2,悲鸣屿行冥(GyomeiHimejima),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,额疤位置错,要求粗犷伤疤横贯额头，图中伤疤从头顶斜切过眼部，位置和方向均偏离；泪痕也不清。
+Qwen,qwen_成振宇_(SungJinwoo).png,153,Tier 3,成振宇 (SungJinwoo),P10 Character Feature Degradation,P9 Character Genericization,条漫风退化,要求锋利韩系条漫面部与蓝紫发光眼，图中只保留黑衣紫色粒子，脸与眼睛被一般化为常见暗黑男主。
+Qwen,qwen_我妻善逸(ZenitsuAgatsuma).png,57,Tier 2,我妻善逸(ZenitsuAgatsuma),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,雷纹刀缺失,要求日轮刀具有闪电纹路，图中刀身为普通金属且纹样不可辨，黄色三角羽织虽在仍缺核心武器细节。
+Qwen,qwen_战场原黑仪(HitagiSenjougahara).png,121,Tier 2,战场原黑仪(HitagiSenjougahara),P4 Costume / Prop Error,P5 Quantity Error,文具武器错,要求双手持多把打开的订书机或美工刀，图中只见少量枪械状金属物，现代文具形态和数量均不符。
+Qwen,qwen_斯派克_(SpikeSpiegel).png,129,Tier 2,斯派克 (SpikeSpiegel),P2 Signature Feature Missing,P10 Character Feature Degradation,香烟义眼缺,要求右眼具人工义眼锐利感并斜叼香烟，图中眼睛与嘴部均无相应特征，只保留绿卷发和蓝西装。
+Qwen,qwen_晓美焰_(HomuraAkemi).png,113,Tier 2,晓美焰 (HomuraAkemi),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,臂盾未附着,要求金属圆形臂盾固定在左前臂，图中圆盘悬在身体一侧、未与前臂连接，装备的空间附着关系错误。
+Qwen,qwen_朝仓新_(ShinAsakura).png,159,Tier 3,朝仓新 (ShinAsakura),P1 Character Identity Error,P2 Signature Feature Missing,角色性别错,要求淡金短发、白衬衫黑领带的男性朝仓新，图中生成写实金发女性，人物身份首先错误。
+Qwen,qwen_本条二亚_(NiaHonjou).png,104,Tier 2,本条二亚 (NiaHonjou),P2 Signature Feature Missing,P4 Costume / Prop Error,准星瞳缺失,要求右眼十字准星瞳孔和巨大十字修女头纱，图中眼睛为普通瞳，头部十字也被简化，关键识别特征缺失。
+Qwen,qwen_桐谷和人_(Kirito).png,29,Tier 1,桐谷和人 (Kirito),P5 Quantity Error,P4 Costume / Prop Error,双剑全缺,要求背后两把单手剑呈X形交叉，图中没有任何可辨背剑，数量从两把降为零，核心装备完全缺失。
+Qwen,qwen_樱岛麻衣_(MaiSakurajima).png,40,Tier 1,樱岛麻衣 (MaiSakurajima),P7 Attribute Misbinding,P4 Costume / Prop Error,发夹变兔耳,要求黑发上佩粉色兔子发卡，图中把小型发饰扩大成整对黑色兔耳，配饰尺度与对象属性发生误绑。
+Qwen,qwen_正在检修发光量子计算机终端的猫猫.png,188,Tier 4,正在检修发光量子计算机终端的猫猫,P1 Character Identity Error,P12 Multi-concept Fusion Failure,角色被猫化,要求保留猫猫的深绿发、雀斑脸并穿油污防护服检修终端，图中变成完整猫头宇航工程师，原角色身份被强设定吞没。
+Qwen,qwen_江户川柯南(ConanEdogawa).png,17,Tier 1,江户川柯南(ConanEdogawa),P2 Signature Feature Missing,P10 Character Feature Degradation,长呆毛缺失,要求脑后有两根极长翘起呆毛，图中只形成普通短发与小马尾，标志性发型轮廓缺失。
+Qwen,qwen_涅茧利_(MayuriKurotsuchi).png,47,Tier 2,涅茧利 (MayuriKurotsuchi),P7 Attribute Misbinding,P10 Character Feature Degradation,脸绘变面具,要求黑白骷髅图案是贴合面部的彩绘，图中变成立体骷髅面罩，平面妆容属性被错误转化。
+Qwen,qwen_熊猫_(Panda).png,52,Tier 2,熊猫 (Panda),P1 Character Identity Error,P9 Character Genericization,野生熊猫化,要求直立人形巨大熊猫并暗示类人胸肌，图中仍是现实野生熊猫比例，只额外戴了拳击手套，拟人角色身份失败。
+Qwen,qwen_狗卷棘_(TogeInumaki).png,51,Tier 2,狗卷棘 (TogeInumaki),P2 Signature Feature Missing,P7 Attribute Misbinding,蛇目纹错形,要求两侧脸颊是黑色蛇目纹章，图中变成对称卷曲线条，符号结构与角色印记不符。
+Qwen,qwen_狛村左阵_(SajinKomamura).png,48,Tier 2,狛村左阵 (SajinKomamura),P2 Signature Feature Missing,P7 Attribute Misbinding,狼爪缺失,要求棕色狼头与双手狼爪同时成立，图中双手仍为人类拳头，兽人属性只集中在头部。
+Qwen,qwen_猗窝座_(Akaza).png,67,Tier 2,猗窝座 (Akaza),P2 Signature Feature Missing,P8 Structural / Element Fusion Error,金瞳血丝缺,要求发亮带血丝的金色瞳孔，图中眼睛未呈现血丝高光；蓝色刺青虽在，核心眼部标志仍缺失。
+Qwen,qwen_猪股大喜_(TaikiInomata).png,162,Tier 3,猪股大喜 (TaikiInomata),P9 Character Genericization,P10 Character Feature Degradation,运动脸泛化,目标依靠细微校服和羽毛球特征区分猪股大喜，图中成为无特定面部特征的通用金发羽毛球少年，长尾身份不足。
+Qwen,qwen_猫猫_(Maomao).png,143,Tier 3,猫猫 (Maomao),P2 Signature Feature Missing,P10 Character Feature Degradation,雀斑缺失,要求深绿侧辫、紫蓝眼和明显雀斑，图中面部光滑无雀斑，人物更像通用绿发和风少女。
+Qwen,qwen_甘露寺蜜璃(Mitsuri_Kanroji).png,65,Tier 2,甘露寺蜜璃(Mitsuri Kanroji),P2 Signature Feature Missing,P4 Costume / Prop Error,泪痣缺失,要求双眼下方有泪痣并配柔软丝带刀，图中泪痣不可辨；刀具虽弯曲，面部身份红线仍未满足。
+Qwen,qwen_用武士刀切开巨大悬浮披萨的六平千寻.png,190,Tier 4,用武士刀切开巨大悬浮披萨的六平千寻,P1 Character Identity Error,P12 Multi-concept Fusion Failure,角色身份错,要求左脸刀疤的六平千寻以黑火金鱼刀效切失重披萨，图中却是金发女性武士，原角色身份被披萨概念完全覆盖。
+Qwen,qwen_真希波_(MariMakinami).png,116,Tier 2,真希波 (MariMakinami),P4 Costume / Prop Error,P2 Signature Feature Missing,半框镜错误,要求红色仅上半框眼镜，图中生成完整粗红框，特殊镜架结构被常规眼镜替代。
+Qwen,qwen_碎蜂_(Soi-Fon).png,46,Tier 2,碎蜂 (Soi-Fon),P7 Attribute Misbinding,P6 Spatial / Left-Right Error,蜂刺未佩戴,要求金色雀蜂固定在右手中指，图中人物把金色小件捏在手里，单指外骨骼属性没有成立。
+Qwen,qwen_禅院真希_(MakiZen'in).png,50,Tier 2,禅院真希 (MakiZen'in),P4 Costume / Prop Error,P2 Signature Feature Missing,薙刀变短刀,要求手持红色长柄薙刀，图中武器变成短柄红鞘刀；下半框眼镜也被画成完整镜框。
+Qwen,qwen_秋山澪_(MioAkiyama).png,120,Tier 2,秋山澪 (MioAkiyama),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,贝斯持向反,要求左撇子逆向斜抱四弦贝斯，图中使用常规右手演奏布局，琴颈朝向与双手职责左右颠倒。
+Qwen,qwen_空条徐伦_(JolyneCujoh).png,128,Tier 2,空条徐伦 (JolyneCujoh),P7 Attribute Misbinding,P6 Spatial / Left-Right Error,刺青变衣纹,要求亮粉蝴蝶位于胸口裸露皮肤，图中蝴蝶落在网状服装中央，刺青属性错误绑定到衣物。
+Qwen,qwen_穿宇航服拿着光剑的油女志乃.png,181,Tier 4,穿宇航服拿着光剑的油女志乃,P12 Multi-concept Fusion Failure,P2 Signature Feature Missing,头盔吞脸,要求油女志乃的小圆墨镜身份与宇航服、蓝光剑并存，图中头盔完全遮脸，只剩通用宇航员，原角色被装备吞没。
+Qwen,qwen_穿着现代职场西装做PPT汇报的芙莉莲.png,185,Tier 4,穿着现代职场西装做PPT汇报的芙莉莲,P11 Prompt Condition Omission,P12 Multi-concept Fusion Failure,汇报场景缺,要求站在投影幕布前持激光笔做PPT汇报，图中只有白发精灵穿西装的纯色立绘，幕布、图表和汇报动作均缺失。
+Qwen,qwen_童磨_(Doma).png,68,Tier 2,童磨 (Doma),P2 Signature Feature Missing,P10 Character Feature Degradation,长发长度错,要求白橡色带红斑长发，图中头发仅到颈部且被血帽遮断，指定长发轮廓未形成。
+Qwen,qwen_纳兹_(NatsuDragneel).png,28,Tier 1,纳兹 (NatsuDragneel),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,公会纹反侧,要求红色妖精尾巴纹章位于人物右臂，图中纹章落在左臂侧，身体标志发生左右镜像。
+Qwen,qwen_纳甘夫人_(LadyNagant).png,89,Tier 2,纳甘夫人 (LadyNagant),P7 Attribute Misbinding,P8 Structural / Element Fusion Error,枪臂串位,要求右臂本身异化成狙击枪管，图中枪械作为独立肩扛武器，机械改造落在另一臂，能力属性绑定错对象。
+Qwen,qwen_绫濑桃_(MomoAyase).png,149,Tier 3,绫濑桃 (MomoAyase),P9 Character Genericization,P10 Character Feature Degradation,辣妹脸泛化,要求黑粉短发、大耳环和涉谷太妹妆造共同形成绫濑桃，图中虽有表层元素，却成为通用性感街头女性，角色脸与气质不足。
+Qwen,qwen_罗伊·马斯坦(Roy_Mustang).png,92,Tier 2,罗伊·马斯坦(Roy Mustang),P8 Structural / Element Fusion Error,P6 Spatial / Left-Right Error,响指手势错,要求双手做打响指姿态，图中手指只是彼此指向，拇指与中指没有形成可靠接触，动作结构不成立。
+Qwen,qwen_胀相_(Choso).png,53,Tier 2,胀相 (Choso),P4 Costume / Prop Error,P7 Attribute Misbinding,长袍被吞,要求米色多层高领长袍，图中变成黑色无袖紧身服，发型和鼻纹虽在但核心服装体系完全错误。
+Qwen,qwen_艾达_(Eida).png,141,Tier 3,艾达 (Eida),P2 Signature Feature Missing,P9 Character Genericization,星眼缺失,要求半月状星眼瞳孔，图中双眼为普通蓝色动漫瞳，角色因此退化为通用银发时尚少女。
+Qwen,qwen_芙莉莲_(Frieren).png,145,Tier 3,芙莉莲 (Frieren),P4 Costume / Prop Error,P10 Character Feature Degradation,法师袍错误,要求白色系法师长袍，图中为现代高领白金制服，精灵耳与双马尾存在但服装视觉语言偏离。
+Qwen,qwen_芥川龙之介(RyunosukeAkutagawa).png,98,Tier 2,芥川龙之介(RyunosukeAkutagawa),P8 Structural / Element Fusion Error,P1 Character Identity Error,头身结构崩,要求正常比例的芥川及外套下摆罗生门，图中巨大头像与微小全身叠合，人体尺度和面部结构严重异常。
+Qwen,qwen_菲伦_(Fern).png,146,Tier 3,菲伦 (Fern),P8 Structural / Element Fusion Error,P10 Character Feature Degradation,头身比例崩,要求包子脸少女穿宽大高领法袍持黑法杖，图中头部过大、身体缩成幼儿比例，角色结构被畸形化。
+Qwen,qwen_蛙吹梅雨_(TsuyuAsui).png,81,Tier 2,蛙吹梅雨 (TsuyuAsui),P1 Character Identity Error,P7 Attribute Misbinding,角色蛙化,要求人类少女保留扁嘴、长舌和夸张肢体，图中变成完整直立青蛙，动物属性覆盖人类角色身份。
+Qwen,qwen_蝴蝶忍_(ShinobuKocho).png,60,Tier 2,蝴蝶忍 (ShinobuKocho),P4 Costume / Prop Error,P8 Structural / Element Fusion Error,特制刀错误,要求日轮刀只有刀尖具刃，图中生成普通完整刀刃，特殊冷兵器结构未保留。
+Qwen,qwen_蝶野雏_(HinaChono).png,164,Tier 3,蝶野雏 (HinaChono),P9 Character Genericization,P10 Character Feature Degradation,体操脸泛化,要求栗色短卷发并保持蝶野雏的角色气质，图中虽有紧身服与丝带，却成为通用艺术体操女性，身份辨识度不足。
+Qwen,qwen_西索_(HisokaMorow).png,101,Tier 2,西索 (HisokaMorow),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,脸绘左右反,要求人物左脸五角星、右脸水滴，图中星与水滴落在相反两侧，非对称脸绘整体镜像。
+Qwen,qwen_赛伯星人(Serpoians).png,152,Tier 3,赛伯星人(Serpoians),P10 Character Feature Degradation,P9 Character Genericization,倒梯眼弱化,要求巨大无瞳倒梯形眼，图中被改成常见椭圆黑眼灰色外星人，特殊眼部几何明显退化。
+Qwen,qwen_赤木茂_(AkagiShigeru).png,167,Tier 3,赤木茂 (AkagiShigeru),P1 Character Identity Error,P9 Character Genericization,角色体型错,要求骨感锐利银发、尖鼻尖下巴并手捏麻将牌，图中变成赤膊肌肉中年男性，赤木茂身份完全失真。
+Qwen,qwen_越前龙马(RyomaEchizen).png,13,Tier 1,越前龙马(RyomaEchizen),P4 Costume / Prop Error,P3 Color Error,球帽缺失,要求戴有F标志的白色网球帽并持红色球拍，图中没有帽子且球拍为蓝色，标志装备和配色同时错误。
+Qwen,qwen_路德_(Rudo).png,157,Tier 3,路德 (Rudo),P10 Character Feature Degradation,P9 Character Genericization,废土风柔化,要求污渍杂乱发、左脸黑斑与工业涂鸦视觉语言，图中变成标准装甲废土士兵，角色特有脏乱面部和画风被弱化。
+Qwen,qwen_车海印_(ChaHae-In).png,154,Tier 3,车海印 (ChaHae-In),P10 Character Feature Degradation,P9 Character Genericization,猎人脸泛化,要求浅金波波头、红棕冷眼与贴身猎人铠甲，图中成为通用金发西式女骑士，韩系角色脸与气质不足。
+Qwen,qwen_轰焦冻_(ShotoTodoroki).png,82,Tier 2,轰焦冻 (ShotoTodoroki),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,红白左右反,要求人物左侧红发烧伤、右侧白发，图中红发与烧伤落在人物右侧，颜色和伤疤绑定整体镜像。
+Qwen,qwen_辛美尔_(Himmel).png,148,Tier 3,辛美尔 (Himmel),P2 Signature Feature Missing,P10 Character Feature Degradation,泪痣缺失,要求右眼下有明确泪痣，图中眼下无可辨黑痣；蓝发白披风虽在，细小身份点仍缺失。
+Qwen,qwen_迪奥·布兰度(DIO).png,126,Tier 2,迪奥·布兰度(DIO),P2 Signature Feature Missing,P10 Character Feature Degradation,耳痣缺失,要求左耳三颗黑痣成直线，图中耳侧无该标记；黄色造型和后弯姿势存在，但身份细节遗漏。
+Qwen,qwen_迪蒙_(Daemon).png,142,Tier 3,迪蒙 (Daemon),P2 Signature Feature Missing,P9 Character Genericization,月相瞳缺失,要求半月相几何瞳孔并保有儿童感，图中为普通蓝色动漫瞳且年龄偏大，特殊眼形缺失。
+Qwen,qwen_迪达拉_(Deidara).png,44,Tier 2,迪达拉 (Deidara),P6 Spatial / Left-Right Error,P7 Attribute Misbinding,瞄准器戴反,要求微型机械瞄准器佩在人物左眼，图中装置横在右眼侧，眼部配件发生左右错位。
+Qwen,qwen_酷拉皮卡(Kurapika).png,102,Tier 2,酷拉皮卡(Kurapika),P5 Quantity Error,P8 Structural / Element Fusion Error,五链不足,要求右手五指各戴独立戒指并连接锁链，图中只见少量环链，五条独立链路数量不足。
+Qwen,qwen_银卡_(Ginka).png,165,Tier 3,银卡 (Ginka),P9 Character Genericization,P10 Character Feature Degradation,雪人模板化,要求银卡的圆润白色身体、极简黑圆眼和小礼帽，图中变成标准三球雪人，角色特定比例被常见雪人模板替代。
+Qwen,qwen_长出金色及地超级赛亚人长发的琦玉.png,187,Tier 4,长出金色及地超级赛亚人长发的琦玉,P12 Multi-concept Fusion Failure,P1 Character Identity Error,角色吞没,要求琦玉的极简光头五官与及地金发共存，图中加入超人标志和披风并把人物变成陌生赛亚英雄，原角色身份被强概念吞没。
+Qwen,qwen_间桐樱_(SakuraMatou).png,125,Tier 2,间桐樱 (SakuraMatou),P6 Spatial / Left-Right Error,P4 Costume / Prop Error,发带左右错,要求亮紫红细发带系在人物左侧鬓角，图中发带落在右侧，且制服被改成职业套装，非对称配饰首先镜像。
+Qwen,qwen_阿里巴巴(Alibaba_Saluja).png,171,Tier 3,阿里巴巴(Alibaba Saluja),P7 Attribute Misbinding,P10 Character Feature Degradation,呆毛变长发,要求只有一根金黄呆毛高翘且极长，图中将长度扩散到整头高马尾长发，单根特征被错误绑定为整体发型。
+Qwen,qwen_香克斯_(Shanks).png,78,Tier 2,香克斯 (Shanks),P6 Spatial / Left-Right Error,P2 Signature Feature Missing,眼疤左右错,要求三道爪痕位于人物左眼眶，图中伤疤落在右眼侧，关键非对称面部标记发生镜像。
+Qwen,qwen_马格纳_(MagnaSwing).png,169,Tier 3,马格纳 (MagnaSwing),P2 Signature Feature Missing,P3 Color Error,飞机头缺失,要求黑灰相间高耸飞机头，图中变成黑白尖刺短发，长方体发型轮廓和配色均未保留。
+Qwen,qwen_高仓健_(Jiji).png,151,Tier 3,高仓健 (Jiji),P1 Character Identity Error,P2 Signature Feature Missing,角色身份错,要求微黑皮肤、黑短发且变身后全白眼的Jiji，图中只是写实成年男性，眼睛和动漫角色身份均无法对应。
+Qwen,qwen_鹿目圆_(MadokaKaname).png,114,Tier 2,鹿目圆 (MadokaKaname),P4 Costume / Prop Error,P3 Color Error,魔弓不发光,要求粉色树枝状魔弓具有明显自发光，图中弓体为暗淡枝条，只保留外形而缺少发光材质属性。
+Qwen,qwen_鹿野千夏(Chinatsu_Kano).png,163,Tier 3,鹿野千夏(Chinatsu Kano),P9 Character Genericization,P10 Character Feature Degradation,篮球脸泛化,要求黑过肩直发、白底篮球服与写实篮球并保持鹿野千夏的细微表情，图中成为写实通用篮球女性，角色风格和年龄感丢失。
+Doubao,doubao_马格纳_(MagnaSwing).png,169,Tier 3,马格纳 (MagnaSwing),P10 Character Feature Degradation,P4 Costume / Prop Error,发型退化,要求黑灰硬分色及特殊长方体飞机头，图中变成圆弧卷曲发束与平滑灰色高光，标志性发型结构被普通化，因此归入特征弱化；要求火焰附着金属棒，实际棒身呈木质纹理。

@@ -1,0 +1,17 @@
+﻿Model,Task,Tier,Planned_Count,Duplicate_Count,Unable_Count,Unreviewed_Count,Valid_Denominator,Correct_Count,Wrong_Count,Accuracy,Error_Folder_Count,Difference,Evidence
+Baseline 1 Qwen,Task 1,Tier 1,40,2,1,0,37,29,8,78.4%,8,0,看图清单；qwen/qwen1/新建文本文档.txt；error_analysis_per_image.csv。总体95/193隐含98错，与98个唯一有效错误序号完全一致。
+Baseline 1 Qwen,Task 2,Tier 2,100,1,2,0,97,52,45,53.6%,45,0,看图清单；qwen/qwen1/新建文本文档.txt；error_analysis_per_image.csv。总体95/193隐含98错，与98个唯一有效错误序号完全一致。
+Baseline 1 Qwen,Task 3,Tier 3,40,0,1,0,39,5,34,12.8%,34,0,看图清单；qwen/qwen1/新建文本文档.txt；error_analysis_per_image.csv。总体95/193隐含98错，与98个唯一有效错误序号完全一致。
+Baseline 1 Qwen,Task 4,Tier 4,20,0,0,0,20,9,11,45.0%,11,0,看图清单；qwen/qwen1/新建文本文档.txt；error_analysis_per_image.csv。总体95/193隐含98错，与98个唯一有效错误序号完全一致。
+Baseline 2 Doubao,Task 1,Tier 1,40,2,1,0,37,,,,9,,看图清单；豆包/doubao1/新建文本文档.txt；error_analysis_per_image.csv。本Tier已定位错误9个；总体94/195隐含101错，但仅99个错误序号可定位，另2个的Index/Tier缺失。
+Baseline 2 Doubao,Task 2,Tier 2,100,1,1,0,98,,,,53,,看图清单；豆包/doubao1/新建文本文档.txt；error_analysis_per_image.csv。本Tier已定位错误53个；总体94/195隐含101错，但仅99个错误序号可定位，另2个的Index/Tier缺失。
+Baseline 2 Doubao,Task 3,Tier 3,40,0,0,0,40,,,,21,,看图清单；豆包/doubao1/新建文本文档.txt；error_analysis_per_image.csv。本Tier已定位错误21个；总体94/195隐含101错，但仅99个错误序号可定位，另2个的Index/Tier缺失。
+Baseline 2 Doubao,Task 4,Tier 4,20,0,0,0,20,,,,16,,看图清单；豆包/doubao1/新建文本文档.txt；error_analysis_per_image.csv。本Tier已定位错误16个；总体94/195隐含101错，但仅99个错误序号可定位，另2个的Index/Tier缺失。
+Baseline 3 Gemini,Task 1,Tier 1,40,2,0,0,38,27,11,71.1%,11,0,看图清单；gemini/gemini_images/gemini的正确/错误目录；error_analysis_per_image.csv；总体截图。正确与错误目录完整分割有效样本。
+Baseline 3 Gemini,Task 2,Tier 2,100,1,2,0,97,44,53,45.4%,53,0,看图清单；gemini/gemini_images/gemini的正确/错误目录；error_analysis_per_image.csv；总体截图。正确与错误目录完整分割有效样本。
+Baseline 3 Gemini,Task 3,Tier 3,40,0,0,0,40,6,34,15.0%,34,0,看图清单；gemini/gemini_images/gemini的正确/错误目录；error_analysis_per_image.csv；总体截图。正确与错误目录完整分割有效样本。
+Baseline 3 Gemini,Task 4,Tier 4,20,0,0,0,20,10,10,50.0%,10,0,看图清单；gemini/gemini_images/gemini的正确/错误目录；error_analysis_per_image.csv；总体截图。正确与错误目录完整分割有效样本。
+Baseline 4 ChatGPT,Task 1,Tier 1,40,2,1,0,37,34,3,91.9%,3,0,看图清单；chatgpt/chatgpt图的正确/错误目录；error_analysis_per_image.csv；总体截图。正确与错误目录完整分割有效样本。
+Baseline 4 ChatGPT,Task 2,Tier 2,100,1,0,0,99,69,30,69.7%,30,0,看图清单；chatgpt/chatgpt图的正确/错误目录；error_analysis_per_image.csv；总体截图。正确与错误目录完整分割有效样本。
+Baseline 4 ChatGPT,Task 3,Tier 3,40,0,0,0,40,15,25,37.5%,25,0,看图清单；chatgpt/chatgpt图的正确/错误目录；error_analysis_per_image.csv；总体截图。正确与错误目录完整分割有效样本。
+Baseline 4 ChatGPT,Task 4,Tier 4,20,0,0,0,20,14,6,70.0%,6,0,看图清单；chatgpt/chatgpt图的正确/错误目录；error_analysis_per_image.csv；总体截图。正确与错误目录完整分割有效样本。

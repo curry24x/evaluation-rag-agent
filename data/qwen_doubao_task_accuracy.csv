@@ -1,0 +1,9 @@
+﻿Model,Tier,Original,Correct,Wrong,Valid,Accuracy,Duplicate,Unable,Missing,Conflict,Unmapped
+Qwen,Tier 1,40,29,8,37,78.4%,2,1,0,0,0
+Qwen,Tier 2,100,52,45,97,53.6%,1,2,0,0,0
+Qwen,Tier 3,40,5,34,39,12.8%,0,1,0,0,0
+Qwen,Tier 4,20,9,11,20,45.0%,0,0,0,0,0
+Doubao,Tier 1,40,28,9,37,75.7%,2,1,0,0,0
+Doubao,Tier 2,100,45,53,98,45.9%,1,1,0,0,0
+Doubao,Tier 3,40,18,22,40,45.0%,0,0,0,0,0
+Doubao,Tier 4,20,4,16,20,20.0%,0,0,0,0,0

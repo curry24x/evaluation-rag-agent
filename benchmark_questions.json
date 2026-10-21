@@ -1,0 +1,1425 @@
+{
+  "source_files": [
+    "200角色看图打分工作簿.xlsx",
+    "error_analysis_per_image.csv",
+    "error_pattern_summary.csv",
+    "qwen_doubao_task_accuracy.csv",
+    "task_model_accuracy_4x4.csv"
+  ],
+  "dimensions": {
+    "retrieval": 20,
+    "structured": 20,
+    "hybrid": 20,
+    "multi_hop": 10,
+    "robustness": 10
+  },
+  "cases": [
+    {
+      "id": "R01",
+      "dimension": "retrieval",
+      "question": "请按规则解释 Tier 1 要核对的核心问题与判错红线。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R02",
+      "dimension": "retrieval",
+      "question": "工作簿里 Tier 2 的测试目标和判错边界是什么？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R03",
+      "dimension": "retrieval",
+      "question": "查询 Tier 3 规则：主要检查什么，什么情况算失败？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 3"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R04",
+      "dimension": "retrieval",
+      "question": "Tier 4 对图像生成结果的判定标准如何定义？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 4"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R05",
+      "dimension": "retrieval",
+      "question": "查找角色“鸣人 (NarutoUzumaki)”在工作簿中的核对特征。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 1
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R06",
+      "dimension": "retrieval",
+      "question": "角色“坂田银时(Gintoki Sakata)”需要保留哪些关键视觉特征？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 14
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R07",
+      "dimension": "retrieval",
+      "question": "“纳兹 (NatsuDragneel)”的图像审核应检查哪些属性？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 28
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R08",
+      "dimension": "retrieval",
+      "question": "请依据清单说明“油女志乃 (ShinoAburame)”的原子特征和判错红线。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 41
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R09",
+      "dimension": "retrieval",
+      "question": "查找角色“漏瑚 (Jogo)”在工作簿中的核对特征。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 54
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R10",
+      "dimension": "retrieval",
+      "question": "角色“猗窝座 (Akaza)”需要保留哪些关键视觉特征？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 67
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R11",
+      "dimension": "retrieval",
+      "question": "“蛙吹梅雨 (TsuyuAsui)”的图像审核应检查哪些属性？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 81
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R12",
+      "dimension": "retrieval",
+      "question": "请依据清单说明“三笠·阿克曼(MikasaAckerman)”的原子特征和判错红线。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 94
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R13",
+      "dimension": "retrieval",
+      "question": "查找角色“阿斯兰 (AthrunZala)”在工作簿中的核对特征。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 107
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R14",
+      "dimension": "retrieval",
+      "question": "角色“秋山澪 (MioAkiyama)”需要保留哪些关键视觉特征？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 120
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R15",
+      "dimension": "retrieval",
+      "question": "“结城明日奈(Asuna Yuuki)”的图像审核应检查哪些属性？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 134
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R16",
+      "dimension": "retrieval",
+      "question": "请依据清单说明“休塔尔克 (Stark)”的原子特征和判错红线。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 147
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R17",
+      "dimension": "retrieval",
+      "question": "查找角色“南云 (Nagumo)”在工作簿中的核对特征。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 160
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R18",
+      "dimension": "retrieval",
+      "question": "角色“亚连·沃克 (AllenWalker)”需要保留哪些关键视觉特征？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 173
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R19",
+      "dimension": "retrieval",
+      "question": "“长出金色及地超级赛亚人长发的琦玉”的图像审核应检查哪些属性？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 187
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "R20",
+      "dimension": "retrieval",
+      "question": "请依据清单说明“原创设定：\"岩浆主厨\"(Magma-Chef)”的原子特征和判错红线。",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [],
+      "relevant_metadata": [
+        {
+          "document_type": "checklist",
+          "index": 200
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S01",
+      "dimension": "structured",
+      "question": "汇总 Qwen 的错误案例数。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen 错误图：98"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S02",
+      "dimension": "structured",
+      "question": "汇总 Doubao 的错误案例数。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao 错误图：100"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S03",
+      "dimension": "structured",
+      "question": "汇总 Gemini 的错误案例数。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini 错误图：108"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S04",
+      "dimension": "structured",
+      "question": "汇总 ChatGPT 的错误案例数。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT 错误图：64"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S05",
+      "dimension": "structured",
+      "question": "统计 Qwen Tier 1 错误样本数量。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S06",
+      "dimension": "structured",
+      "question": "统计 Doubao Tier 2 错误样本数量。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S07",
+      "dimension": "structured",
+      "question": "统计 Gemini Tier 3 错误样本数量。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 3 错误数：34"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S08",
+      "dimension": "structured",
+      "question": "统计 ChatGPT Tier 4 错误样本数量。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4 错误数：6"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S09",
+      "dimension": "structured",
+      "question": "计算 Qwen 跨 Tier 的整体准确率。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen 总体准确率：49.2%",
+        "95/193"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S10",
+      "dimension": "structured",
+      "question": "计算 Doubao 跨 Tier 的整体准确率。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao 总体准确率：48.7%",
+        "95/195"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S11",
+      "dimension": "structured",
+      "question": "计算 Gemini 跨 Tier 的整体准确率。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini 总体准确率：44.6%",
+        "87/195"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S12",
+      "dimension": "structured",
+      "question": "计算 ChatGPT 跨 Tier 的整体准确率。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT 总体准确率：67.3%",
+        "132/196"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S13",
+      "dimension": "structured",
+      "question": "从主要错误类别看，Qwen 最常出现什么问题？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen 总体主要错误类型：P2 Signature Feature Missing，20/98"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S14",
+      "dimension": "structured",
+      "question": "Qwen 在 Tier 2 占比最高的错误类别和数量是什么？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 2主要错误类型：P4 Costume / Prop Error，13/45"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S15",
+      "dimension": "structured",
+      "question": "从主要错误类别看，Doubao 最常出现什么问题？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao 总体主要错误类型：P2 Signature Feature Missing，23/100"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S16",
+      "dimension": "structured",
+      "question": "Doubao 在 Tier 4 占比最高的错误类别和数量是什么？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 4主要错误类型：P11 Prompt Condition Omission，9/16"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S17",
+      "dimension": "structured",
+      "question": "从主要错误类别看，Gemini 最常出现什么问题？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini 总体主要错误类型：P2 Signature Feature Missing，28/108"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S18",
+      "dimension": "structured",
+      "question": "Gemini 在 Tier 2 占比最高的错误类别和数量是什么？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 2主要错误类型：P2 Signature Feature Missing，16/53"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S19",
+      "dimension": "structured",
+      "question": "从主要错误类别看，ChatGPT 最常出现什么问题？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT 总体主要错误类型：P2 Signature Feature Missing，30/64"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "S20",
+      "dimension": "structured",
+      "question": "ChatGPT 在 Tier 4 占比最高的错误类别和数量是什么？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4主要错误类型：P11 Prompt Condition Omission，3/6"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H01",
+      "dimension": "hybrid",
+      "question": "请给出 Qwen Tier 1 错误数量，并概述 Tier 1 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H02",
+      "dimension": "hybrid",
+      "question": "请给出 Doubao Tier 2 错误数量，并概述 Tier 2 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H03",
+      "dimension": "hybrid",
+      "question": "请给出 Gemini Tier 3 错误数量，并概述 Tier 3 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 3 错误数：34"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 3"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H04",
+      "dimension": "hybrid",
+      "question": "请给出 ChatGPT Tier 4 错误数量，并概述 Tier 4 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4 错误数：6"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 4"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H05",
+      "dimension": "hybrid",
+      "question": "请给出 Qwen Tier 1 错误数量，并概述 Tier 1 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H06",
+      "dimension": "hybrid",
+      "question": "请给出 Doubao Tier 2 错误数量，并概述 Tier 2 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H07",
+      "dimension": "hybrid",
+      "question": "请给出 Gemini Tier 3 错误数量，并概述 Tier 3 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 3 错误数：34"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 3"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H08",
+      "dimension": "hybrid",
+      "question": "请给出 ChatGPT Tier 4 错误数量，并概述 Tier 4 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4 错误数：6"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 4"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H09",
+      "dimension": "hybrid",
+      "question": "请给出 Qwen Tier 1 错误数量，并概述 Tier 1 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H10",
+      "dimension": "hybrid",
+      "question": "请给出 Doubao Tier 2 错误数量，并概述 Tier 2 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H11",
+      "dimension": "hybrid",
+      "question": "请给出 Gemini Tier 3 错误数量，并概述 Tier 3 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 3 错误数：34"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 3"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H12",
+      "dimension": "hybrid",
+      "question": "请给出 ChatGPT Tier 4 错误数量，并概述 Tier 4 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4 错误数：6"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 4"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H13",
+      "dimension": "hybrid",
+      "question": "请给出 Qwen Tier 1 错误数量，并概述 Tier 1 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H14",
+      "dimension": "hybrid",
+      "question": "请给出 Doubao Tier 2 错误数量，并概述 Tier 2 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H15",
+      "dimension": "hybrid",
+      "question": "请给出 Gemini Tier 3 错误数量，并概述 Tier 3 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 3 错误数：34"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 3"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H16",
+      "dimension": "hybrid",
+      "question": "请给出 ChatGPT Tier 4 错误数量，并概述 Tier 4 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4 错误数：6"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 4"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H17",
+      "dimension": "hybrid",
+      "question": "请给出 Qwen Tier 1 错误数量，并概述 Tier 1 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H18",
+      "dimension": "hybrid",
+      "question": "请给出 Doubao Tier 2 错误数量，并概述 Tier 2 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H19",
+      "dimension": "hybrid",
+      "question": "请给出 Gemini Tier 3 错误数量，并概述 Tier 3 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 3 错误数：34"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 3"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "H20",
+      "dimension": "hybrid",
+      "question": "请给出 ChatGPT Tier 4 错误数量，并概述 Tier 4 的测试目标和判错规则。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4 错误数：6"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 4"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M01",
+      "dimension": "multi_hop",
+      "question": "比较 Qwen 和 Doubao 在 Tier 1 的错误数量，列出 Qwen 与 Doubao 在 Tier 1 的主要错误类型，并解释 Tier 1 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8",
+        "Doubao Tier 1 错误数：9",
+        "Qwen Tier 1主要错误类型：P2 Signature Feature Missing",
+        "Doubao Tier 1主要错误类型：P2 Signature Feature Missing"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M02",
+      "dimension": "multi_hop",
+      "question": "比较 Doubao 和 Gemini 在 Tier 2 的错误数量，列出 Doubao 与 Gemini 在 Tier 2 的主要错误类型，并解释 Tier 2 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53",
+        "Gemini Tier 2 错误数：53",
+        "Doubao Tier 2主要错误类型：P2 Signature Feature Missing",
+        "Gemini Tier 2主要错误类型：P2 Signature Feature Missing"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M03",
+      "dimension": "multi_hop",
+      "question": "比较 Gemini 和 ChatGPT 在 Tier 3 的错误数量，列出 Gemini 与 ChatGPT 在 Tier 3 的主要错误类型，并解释 Tier 3 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 3 错误数：34",
+        "ChatGPT Tier 3 错误数：25",
+        "Gemini Tier 3主要错误类型：P9 Character Genericization",
+        "ChatGPT Tier 3主要错误类型：P2 Signature Feature Missing"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 3"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M04",
+      "dimension": "multi_hop",
+      "question": "比较 ChatGPT 和 Qwen 在 Tier 4 的错误数量，列出 ChatGPT 与 Qwen 在 Tier 4 的主要错误类型，并解释 Tier 4 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4 错误数：6",
+        "Qwen Tier 4 错误数：11",
+        "ChatGPT Tier 4主要错误类型：P11 Prompt Condition Omission",
+        "Qwen Tier 4主要错误类型：P11 Prompt Condition Omission"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 4"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M05",
+      "dimension": "multi_hop",
+      "question": "比较 Qwen 和 Doubao 在 Tier 1 的错误数量，列出 Qwen 与 Doubao 在 Tier 1 的主要错误类型，并解释 Tier 1 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8",
+        "Doubao Tier 1 错误数：9",
+        "Qwen Tier 1主要错误类型：P2 Signature Feature Missing",
+        "Doubao Tier 1主要错误类型：P2 Signature Feature Missing"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M06",
+      "dimension": "multi_hop",
+      "question": "比较 Doubao 和 Gemini 在 Tier 2 的错误数量，列出 Doubao 与 Gemini 在 Tier 2 的主要错误类型，并解释 Tier 2 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53",
+        "Gemini Tier 2 错误数：53",
+        "Doubao Tier 2主要错误类型：P2 Signature Feature Missing",
+        "Gemini Tier 2主要错误类型：P2 Signature Feature Missing"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M07",
+      "dimension": "multi_hop",
+      "question": "比较 Gemini 和 ChatGPT 在 Tier 3 的错误数量，列出 Gemini 与 ChatGPT 在 Tier 3 的主要错误类型，并解释 Tier 3 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 3 错误数：34",
+        "ChatGPT Tier 3 错误数：25",
+        "Gemini Tier 3主要错误类型：P9 Character Genericization",
+        "ChatGPT Tier 3主要错误类型：P2 Signature Feature Missing"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 3"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M08",
+      "dimension": "multi_hop",
+      "question": "比较 ChatGPT 和 Qwen 在 Tier 4 的错误数量，列出 ChatGPT 与 Qwen 在 Tier 4 的主要错误类型，并解释 Tier 4 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 4 错误数：6",
+        "Qwen Tier 4 错误数：11",
+        "ChatGPT Tier 4主要错误类型：P11 Prompt Condition Omission",
+        "Qwen Tier 4主要错误类型：P11 Prompt Condition Omission"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 4"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M09",
+      "dimension": "multi_hop",
+      "question": "比较 Qwen 和 Doubao 在 Tier 1 的错误数量，列出 Qwen 与 Doubao 在 Tier 1 的主要错误类型，并解释 Tier 1 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8",
+        "Doubao Tier 1 错误数：9",
+        "Qwen Tier 1主要错误类型：P2 Signature Feature Missing",
+        "Doubao Tier 1主要错误类型：P2 Signature Feature Missing"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 1"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "M10",
+      "dimension": "multi_hop",
+      "question": "比较 Doubao 和 Gemini 在 Tier 2 的错误数量，列出 Doubao 与 Gemini 在 Tier 2 的主要错误类型，并解释 Tier 2 的测试目标。",
+      "expected_route": "both",
+      "expected_tools": [
+        "retrieve_eval_docs",
+        "analyze_results",
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 2 错误数：53",
+        "Gemini Tier 2 错误数：53",
+        "Doubao Tier 2主要错误类型：P2 Signature Feature Missing",
+        "Gemini Tier 2主要错误类型：P2 Signature Feature Missing"
+      ],
+      "relevant_metadata": [
+        {
+          "document_type": "tier_rule",
+          "tier": "Tier 2"
+        }
+      ],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "B01",
+      "dimension": "robustness",
+      "question": "通义在 Tier 1 错误样本有多少？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1 错误数：8"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "B02",
+      "dimension": "robustness",
+      "question": "豆包在 Tier 4 的错误数量是多少？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Doubao Tier 4 错误数：16"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "B03",
+      "dimension": "robustness",
+      "question": "How many error images are recorded for Qwen?",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen 错误图：98"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "B04",
+      "dimension": "robustness",
+      "question": "ChatGPT Task 2 准确率是多少？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "ChatGPT Tier 2：69.7%"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "B05",
+      "dimension": "robustness",
+      "question": "Gemini Tier 4 的准确率有多少？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Gemini Tier 4：50.0%"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "B06",
+      "dimension": "robustness",
+      "question": "请汇总四个模型各自的错误图数量。",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen 错误图：98",
+        "Doubao 错误图：100",
+        "Gemini 错误图：108",
+        "ChatGPT 错误图：64"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    },
+    {
+      "id": "B07",
+      "dimension": "robustness",
+      "question": "Mistral模型有多少错误案例？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Insufficient evidence"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": true
+    },
+    {
+      "id": "B08",
+      "dimension": "robustness",
+      "question": "Tier 9 的图像审核规则是什么？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [
+        "Insufficient evidence"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": true
+    },
+    {
+      "id": "B09",
+      "dimension": "robustness",
+      "question": "火星人甲的核对特征是什么？",
+      "expected_route": "retrieve",
+      "expected_tools": [
+        "retrieve_eval_docs"
+      ],
+      "answer_contains": [
+        "Insufficient evidence"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": true
+    },
+    {
+      "id": "B10",
+      "dimension": "robustness",
+      "question": "Qwen overall accuracy in Tier 1 是多少？",
+      "expected_route": "analyze",
+      "expected_tools": [
+        "analyze_results"
+      ],
+      "answer_contains": [
+        "Qwen Tier 1：78.4%"
+      ],
+      "relevant_metadata": [],
+      "insufficient_evidence": false
+    }
+  ]
+}

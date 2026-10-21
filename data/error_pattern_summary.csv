@@ -1,0 +1,241 @@
+﻿Model,Tier,Error_Pattern,Count,Percentage_of_Model_Errors
+ChatGPT,All,P1 Character Identity Error,1,1.56%
+ChatGPT,All,P2 Signature Feature Missing,30,46.88%
+ChatGPT,All,P3 Color Error,0,0.00%
+ChatGPT,All,P4 Costume / Prop Error,8,12.50%
+ChatGPT,All,P5 Quantity Error,3,4.69%
+ChatGPT,All,P6 Spatial / Left-Right Error,1,1.56%
+ChatGPT,All,P7 Attribute Misbinding,0,0.00%
+ChatGPT,All,P8 Structural / Element Fusion Error,3,4.69%
+ChatGPT,All,P9 Character Genericization,9,14.06%
+ChatGPT,All,P10 Character Feature Degradation,4,6.25%
+ChatGPT,All,P11 Prompt Condition Omission,3,4.69%
+ChatGPT,All,P12 Multi-concept Fusion Failure,2,3.13%
+ChatGPT,Tier 1,P1 Character Identity Error,0,0.00%
+ChatGPT,Tier 1,P2 Signature Feature Missing,0,0.00%
+ChatGPT,Tier 1,P3 Color Error,0,0.00%
+ChatGPT,Tier 1,P4 Costume / Prop Error,2,3.13%
+ChatGPT,Tier 1,P5 Quantity Error,1,1.56%
+ChatGPT,Tier 1,P6 Spatial / Left-Right Error,0,0.00%
+ChatGPT,Tier 1,P7 Attribute Misbinding,0,0.00%
+ChatGPT,Tier 1,P8 Structural / Element Fusion Error,0,0.00%
+ChatGPT,Tier 1,P9 Character Genericization,0,0.00%
+ChatGPT,Tier 1,P10 Character Feature Degradation,0,0.00%
+ChatGPT,Tier 1,P11 Prompt Condition Omission,0,0.00%
+ChatGPT,Tier 1,P12 Multi-concept Fusion Failure,0,0.00%
+ChatGPT,Tier 2,P1 Character Identity Error,0,0.00%
+ChatGPT,Tier 2,P2 Signature Feature Missing,21,32.81%
+ChatGPT,Tier 2,P3 Color Error,0,0.00%
+ChatGPT,Tier 2,P4 Costume / Prop Error,6,9.38%
+ChatGPT,Tier 2,P5 Quantity Error,0,0.00%
+ChatGPT,Tier 2,P6 Spatial / Left-Right Error,1,1.56%
+ChatGPT,Tier 2,P7 Attribute Misbinding,0,0.00%
+ChatGPT,Tier 2,P8 Structural / Element Fusion Error,2,3.13%
+ChatGPT,Tier 2,P9 Character Genericization,0,0.00%
+ChatGPT,Tier 2,P10 Character Feature Degradation,0,0.00%
+ChatGPT,Tier 2,P11 Prompt Condition Omission,0,0.00%
+ChatGPT,Tier 2,P12 Multi-concept Fusion Failure,0,0.00%
+ChatGPT,Tier 3,P1 Character Identity Error,0,0.00%
+ChatGPT,Tier 3,P2 Signature Feature Missing,9,14.06%
+ChatGPT,Tier 3,P3 Color Error,0,0.00%
+ChatGPT,Tier 3,P4 Costume / Prop Error,0,0.00%
+ChatGPT,Tier 3,P5 Quantity Error,2,3.13%
+ChatGPT,Tier 3,P6 Spatial / Left-Right Error,0,0.00%
+ChatGPT,Tier 3,P7 Attribute Misbinding,0,0.00%
+ChatGPT,Tier 3,P8 Structural / Element Fusion Error,1,1.56%
+ChatGPT,Tier 3,P9 Character Genericization,9,14.06%
+ChatGPT,Tier 3,P10 Character Feature Degradation,4,6.25%
+ChatGPT,Tier 3,P11 Prompt Condition Omission,0,0.00%
+ChatGPT,Tier 3,P12 Multi-concept Fusion Failure,0,0.00%
+ChatGPT,Tier 4,P1 Character Identity Error,1,1.56%
+ChatGPT,Tier 4,P2 Signature Feature Missing,0,0.00%
+ChatGPT,Tier 4,P3 Color Error,0,0.00%
+ChatGPT,Tier 4,P4 Costume / Prop Error,0,0.00%
+ChatGPT,Tier 4,P5 Quantity Error,0,0.00%
+ChatGPT,Tier 4,P6 Spatial / Left-Right Error,0,0.00%
+ChatGPT,Tier 4,P7 Attribute Misbinding,0,0.00%
+ChatGPT,Tier 4,P8 Structural / Element Fusion Error,0,0.00%
+ChatGPT,Tier 4,P9 Character Genericization,0,0.00%
+ChatGPT,Tier 4,P10 Character Feature Degradation,0,0.00%
+ChatGPT,Tier 4,P11 Prompt Condition Omission,3,4.69%
+ChatGPT,Tier 4,P12 Multi-concept Fusion Failure,2,3.13%
+Doubao,All,P1 Character Identity Error,3,3.00%
+Doubao,All,P2 Signature Feature Missing,23,23.00%
+Doubao,All,P3 Color Error,2,2.00%
+Doubao,All,P4 Costume / Prop Error,18,18.00%
+Doubao,All,P5 Quantity Error,6,6.00%
+Doubao,All,P6 Spatial / Left-Right Error,11,11.00%
+Doubao,All,P7 Attribute Misbinding,9,9.00%
+Doubao,All,P8 Structural / Element Fusion Error,4,4.00%
+Doubao,All,P9 Character Genericization,7,7.00%
+Doubao,All,P10 Character Feature Degradation,7,7.00%
+Doubao,All,P11 Prompt Condition Omission,9,9.00%
+Doubao,All,P12 Multi-concept Fusion Failure,1,1.00%
+Doubao,Tier 1,P1 Character Identity Error,0,0.00%
+Doubao,Tier 1,P2 Signature Feature Missing,2,2.00%
+Doubao,Tier 1,P3 Color Error,0,0.00%
+Doubao,Tier 1,P4 Costume / Prop Error,2,2.00%
+Doubao,Tier 1,P5 Quantity Error,1,1.00%
+Doubao,Tier 1,P6 Spatial / Left-Right Error,2,2.00%
+Doubao,Tier 1,P7 Attribute Misbinding,0,0.00%
+Doubao,Tier 1,P8 Structural / Element Fusion Error,1,1.00%
+Doubao,Tier 1,P9 Character Genericization,0,0.00%
+Doubao,Tier 1,P10 Character Feature Degradation,1,1.00%
+Doubao,Tier 1,P11 Prompt Condition Omission,0,0.00%
+Doubao,Tier 1,P12 Multi-concept Fusion Failure,0,0.00%
+Doubao,Tier 2,P1 Character Identity Error,2,2.00%
+Doubao,Tier 2,P2 Signature Feature Missing,16,16.00%
+Doubao,Tier 2,P3 Color Error,1,1.00%
+Doubao,Tier 2,P4 Costume / Prop Error,12,12.00%
+Doubao,Tier 2,P5 Quantity Error,4,4.00%
+Doubao,Tier 2,P6 Spatial / Left-Right Error,6,6.00%
+Doubao,Tier 2,P7 Attribute Misbinding,6,6.00%
+Doubao,Tier 2,P8 Structural / Element Fusion Error,2,2.00%
+Doubao,Tier 2,P9 Character Genericization,1,1.00%
+Doubao,Tier 2,P10 Character Feature Degradation,3,3.00%
+Doubao,Tier 2,P11 Prompt Condition Omission,0,0.00%
+Doubao,Tier 2,P12 Multi-concept Fusion Failure,0,0.00%
+Doubao,Tier 3,P1 Character Identity Error,0,0.00%
+Doubao,Tier 3,P2 Signature Feature Missing,5,5.00%
+Doubao,Tier 3,P3 Color Error,1,1.00%
+Doubao,Tier 3,P4 Costume / Prop Error,3,3.00%
+Doubao,Tier 3,P5 Quantity Error,1,1.00%
+Doubao,Tier 3,P6 Spatial / Left-Right Error,1,1.00%
+Doubao,Tier 3,P7 Attribute Misbinding,2,2.00%
+Doubao,Tier 3,P8 Structural / Element Fusion Error,0,0.00%
+Doubao,Tier 3,P9 Character Genericization,6,6.00%
+Doubao,Tier 3,P10 Character Feature Degradation,3,3.00%
+Doubao,Tier 3,P11 Prompt Condition Omission,0,0.00%
+Doubao,Tier 3,P12 Multi-concept Fusion Failure,0,0.00%
+Doubao,Tier 4,P1 Character Identity Error,1,1.00%
+Doubao,Tier 4,P2 Signature Feature Missing,0,0.00%
+Doubao,Tier 4,P3 Color Error,0,0.00%
+Doubao,Tier 4,P4 Costume / Prop Error,1,1.00%
+Doubao,Tier 4,P5 Quantity Error,0,0.00%
+Doubao,Tier 4,P6 Spatial / Left-Right Error,2,2.00%
+Doubao,Tier 4,P7 Attribute Misbinding,1,1.00%
+Doubao,Tier 4,P8 Structural / Element Fusion Error,1,1.00%
+Doubao,Tier 4,P9 Character Genericization,0,0.00%
+Doubao,Tier 4,P10 Character Feature Degradation,0,0.00%
+Doubao,Tier 4,P11 Prompt Condition Omission,9,9.00%
+Doubao,Tier 4,P12 Multi-concept Fusion Failure,1,1.00%
+Gemini,All,P1 Character Identity Error,2,1.85%
+Gemini,All,P2 Signature Feature Missing,28,25.93%
+Gemini,All,P3 Color Error,6,5.56%
+Gemini,All,P4 Costume / Prop Error,19,17.59%
+Gemini,All,P5 Quantity Error,2,1.85%
+Gemini,All,P6 Spatial / Left-Right Error,13,12.04%
+Gemini,All,P7 Attribute Misbinding,3,2.78%
+Gemini,All,P8 Structural / Element Fusion Error,7,6.48%
+Gemini,All,P9 Character Genericization,12,11.11%
+Gemini,All,P10 Character Feature Degradation,9,8.33%
+Gemini,All,P11 Prompt Condition Omission,5,4.63%
+Gemini,All,P12 Multi-concept Fusion Failure,2,1.85%
+Gemini,Tier 1,P1 Character Identity Error,0,0.00%
+Gemini,Tier 1,P2 Signature Feature Missing,1,0.93%
+Gemini,Tier 1,P3 Color Error,1,0.93%
+Gemini,Tier 1,P4 Costume / Prop Error,7,6.48%
+Gemini,Tier 1,P5 Quantity Error,1,0.93%
+Gemini,Tier 1,P6 Spatial / Left-Right Error,1,0.93%
+Gemini,Tier 1,P7 Attribute Misbinding,0,0.00%
+Gemini,Tier 1,P8 Structural / Element Fusion Error,0,0.00%
+Gemini,Tier 1,P9 Character Genericization,0,0.00%
+Gemini,Tier 1,P10 Character Feature Degradation,0,0.00%
+Gemini,Tier 1,P11 Prompt Condition Omission,0,0.00%
+Gemini,Tier 1,P12 Multi-concept Fusion Failure,0,0.00%
+Gemini,Tier 2,P1 Character Identity Error,0,0.00%
+Gemini,Tier 2,P2 Signature Feature Missing,16,14.81%
+Gemini,Tier 2,P3 Color Error,1,0.93%
+Gemini,Tier 2,P4 Costume / Prop Error,12,11.11%
+Gemini,Tier 2,P5 Quantity Error,1,0.93%
+Gemini,Tier 2,P6 Spatial / Left-Right Error,9,8.33%
+Gemini,Tier 2,P7 Attribute Misbinding,2,1.85%
+Gemini,Tier 2,P8 Structural / Element Fusion Error,7,6.48%
+Gemini,Tier 2,P9 Character Genericization,1,0.93%
+Gemini,Tier 2,P10 Character Feature Degradation,4,3.70%
+Gemini,Tier 2,P11 Prompt Condition Omission,0,0.00%
+Gemini,Tier 2,P12 Multi-concept Fusion Failure,0,0.00%
+Gemini,Tier 3,P1 Character Identity Error,1,0.93%
+Gemini,Tier 3,P2 Signature Feature Missing,10,9.26%
+Gemini,Tier 3,P3 Color Error,3,2.78%
+Gemini,Tier 3,P4 Costume / Prop Error,0,0.00%
+Gemini,Tier 3,P5 Quantity Error,0,0.00%
+Gemini,Tier 3,P6 Spatial / Left-Right Error,3,2.78%
+Gemini,Tier 3,P7 Attribute Misbinding,1,0.93%
+Gemini,Tier 3,P8 Structural / Element Fusion Error,0,0.00%
+Gemini,Tier 3,P9 Character Genericization,11,10.19%
+Gemini,Tier 3,P10 Character Feature Degradation,5,4.63%
+Gemini,Tier 3,P11 Prompt Condition Omission,0,0.00%
+Gemini,Tier 3,P12 Multi-concept Fusion Failure,0,0.00%
+Gemini,Tier 4,P1 Character Identity Error,1,0.93%
+Gemini,Tier 4,P2 Signature Feature Missing,1,0.93%
+Gemini,Tier 4,P3 Color Error,1,0.93%
+Gemini,Tier 4,P4 Costume / Prop Error,0,0.00%
+Gemini,Tier 4,P5 Quantity Error,0,0.00%
+Gemini,Tier 4,P6 Spatial / Left-Right Error,0,0.00%
+Gemini,Tier 4,P7 Attribute Misbinding,0,0.00%
+Gemini,Tier 4,P8 Structural / Element Fusion Error,0,0.00%
+Gemini,Tier 4,P9 Character Genericization,0,0.00%
+Gemini,Tier 4,P10 Character Feature Degradation,0,0.00%
+Gemini,Tier 4,P11 Prompt Condition Omission,5,4.63%
+Gemini,Tier 4,P12 Multi-concept Fusion Failure,2,1.85%
+Qwen,All,P1 Character Identity Error,9,9.18%
+Qwen,All,P2 Signature Feature Missing,20,20.41%
+Qwen,All,P3 Color Error,1,1.02%
+Qwen,All,P4 Costume / Prop Error,17,17.35%
+Qwen,All,P5 Quantity Error,3,3.06%
+Qwen,All,P6 Spatial / Left-Right Error,14,14.29%
+Qwen,All,P7 Attribute Misbinding,7,7.14%
+Qwen,All,P8 Structural / Element Fusion Error,4,4.08%
+Qwen,All,P9 Character Genericization,9,9.18%
+Qwen,All,P10 Character Feature Degradation,7,7.14%
+Qwen,All,P11 Prompt Condition Omission,3,3.06%
+Qwen,All,P12 Multi-concept Fusion Failure,4,4.08%
+Qwen,Tier 1,P1 Character Identity Error,0,0.00%
+Qwen,Tier 1,P2 Signature Feature Missing,2,2.04%
+Qwen,Tier 1,P3 Color Error,0,0.00%
+Qwen,Tier 1,P4 Costume / Prop Error,2,2.04%
+Qwen,Tier 1,P5 Quantity Error,1,1.02%
+Qwen,Tier 1,P6 Spatial / Left-Right Error,1,1.02%
+Qwen,Tier 1,P7 Attribute Misbinding,1,1.02%
+Qwen,Tier 1,P8 Structural / Element Fusion Error,1,1.02%
+Qwen,Tier 1,P9 Character Genericization,0,0.00%
+Qwen,Tier 1,P10 Character Feature Degradation,0,0.00%
+Qwen,Tier 1,P11 Prompt Condition Omission,0,0.00%
+Qwen,Tier 1,P12 Multi-concept Fusion Failure,0,0.00%
+Qwen,Tier 2,P1 Character Identity Error,3,3.06%
+Qwen,Tier 2,P2 Signature Feature Missing,12,12.24%
+Qwen,Tier 2,P3 Color Error,0,0.00%
+Qwen,Tier 2,P4 Costume / Prop Error,13,13.27%
+Qwen,Tier 2,P5 Quantity Error,1,1.02%
+Qwen,Tier 2,P6 Spatial / Left-Right Error,9,9.18%
+Qwen,Tier 2,P7 Attribute Misbinding,4,4.08%
+Qwen,Tier 2,P8 Structural / Element Fusion Error,2,2.04%
+Qwen,Tier 2,P9 Character Genericization,0,0.00%
+Qwen,Tier 2,P10 Character Feature Degradation,1,1.02%
+Qwen,Tier 2,P11 Prompt Condition Omission,0,0.00%
+Qwen,Tier 2,P12 Multi-concept Fusion Failure,0,0.00%
+Qwen,Tier 3,P1 Character Identity Error,4,4.08%
+Qwen,Tier 3,P2 Signature Feature Missing,6,6.12%
+Qwen,Tier 3,P3 Color Error,1,1.02%
+Qwen,Tier 3,P4 Costume / Prop Error,2,2.04%
+Qwen,Tier 3,P5 Quantity Error,1,1.02%
+Qwen,Tier 3,P6 Spatial / Left-Right Error,2,2.04%
+Qwen,Tier 3,P7 Attribute Misbinding,1,1.02%
+Qwen,Tier 3,P8 Structural / Element Fusion Error,1,1.02%
+Qwen,Tier 3,P9 Character Genericization,9,9.18%
+Qwen,Tier 3,P10 Character Feature Degradation,6,6.12%
+Qwen,Tier 3,P11 Prompt Condition Omission,0,0.00%
+Qwen,Tier 3,P12 Multi-concept Fusion Failure,1,1.02%
+Qwen,Tier 4,P1 Character Identity Error,2,2.04%
+Qwen,Tier 4,P2 Signature Feature Missing,0,0.00%
+Qwen,Tier 4,P3 Color Error,0,0.00%
+Qwen,Tier 4,P4 Costume / Prop Error,0,0.00%
+Qwen,Tier 4,P5 Quantity Error,0,0.00%
+Qwen,Tier 4,P6 Spatial / Left-Right Error,2,2.04%
+Qwen,Tier 4,P7 Attribute Misbinding,1,1.02%
+Qwen,Tier 4,P8 Structural / Element Fusion Error,0,0.00%
+Qwen,Tier 4,P9 Character Genericization,0,0.00%
+Qwen,Tier 4,P10 Character Feature Degradation,0,0.00%
+Qwen,Tier 4,P11 Prompt Condition Omission,3,3.06%
+Qwen,Tier 4,P12 Multi-concept Fusion Failure,3,3.06%
